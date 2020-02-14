@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Edge Case
+title: Power Rankings
 ---
 
 Sample category page. You need to create a page for each category.
@@ -10,7 +10,7 @@ specify it with the `category` attribute in the front matter.
 ```md
 ---
 layout: category
-title: My Category
+title: Power Rankings
 ---
 ```
 
@@ -20,7 +20,7 @@ Or ...
 ---
 layout: category
 title: Fancy Title
-category: My Category
+category: Power Rankings
 ---
 ```
 
