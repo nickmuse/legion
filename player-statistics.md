@@ -22,8 +22,8 @@ sidebar_link: true
             <th>Wins</th>
             <th>Rec</th>
             <th>TD</th>
-            <th>QB Comp</th>
-            <th>QB TD</th>
+            <th>Comp</th>
+            <th>PTD</th>
         </tr>
     </thead>
     <tbody>
