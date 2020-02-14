@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Legends of Legion
 tagline:          'Football League'
-description:      'Where Legends of Legion are born'
+description:      '🏈'
 url:              https://nickmuse.com
 baseurl:          '/legion'
                   # the optional subpath of your site, e.g. "/blog"
