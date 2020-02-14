@@ -5,7 +5,6 @@ categories:
   - Power Rankings
 tags:
   - Power Rankings
-last_modified_at: 2020-01-01T00:00:00-00:00
 ---
 
 Smith's Point Captains
