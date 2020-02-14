@@ -13,7 +13,7 @@ sidebar_link: true
   <script>
     $(document).ready(function(){
       $('#stats').DataTable({
-        responsive: true,
+        responsive: false,
         paging: false,
         searching: true,
         details: false
