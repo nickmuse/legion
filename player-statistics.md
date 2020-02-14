@@ -15,8 +15,7 @@ sidebar_link: true
       $('#stats').DataTable({
         responsive: false,
         paging: false,
-        searching: true,
-        details: false
+        searching: true
       });
     });
   </script>
