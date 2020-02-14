@@ -13,7 +13,14 @@ sidebar_link: true
   <script>
     $(document).ready(function(){
       $('#stats').DataTable({
-        paging: false
+        responsive: {
+        breakpoints: [
+            { name: 'desktop', width: Infinity },
+            { name: 'tablet',  width: 1024 },
+            { name: 'fablet',  width: 768 },
+            { name: 'phone',   width: 480 }
+        ]
+    }
       });
     });
   </script>
