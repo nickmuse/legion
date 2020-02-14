@@ -19,6 +19,7 @@ sidebar_link: true
     <thead>
         <tr>
             <th>Name</th>
+            <th>Wins</th>
             <th>Rec</th>
             <th>TD</th>
             <th>QB Comp</th>
@@ -28,6 +29,7 @@ sidebar_link: true
     <tbody>
         <tr>
             <td>Frank</td>
+            <td>6</td>
             <td>2</td>
             <td>1</td>
             <td>27</td>
@@ -35,6 +37,7 @@ sidebar_link: true
         </tr>
         <tr>
             <td>Justin</td>
+            <td>4</td>
             <td>18</td>
             <td>9</td>
             <td>1</td>
