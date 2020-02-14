@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Legends of Legion
 tagline:          'Football League'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Where Legends of Legion are born'
 url:              https://nickmuse.com
 baseurl:          '/legion'
                   # the optional subpath of your site, e.g. "/blog"
