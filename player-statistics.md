@@ -4,7 +4,6 @@ title: Player Statistics
 sidebar_link: true
 ---
 
-```html
 <head>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"></link>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -496,4 +495,3 @@ sidebar_link: true
         </tr>
     </tfoot>
 </table>
-```
