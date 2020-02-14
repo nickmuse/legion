@@ -13,6 +13,7 @@ I’ve said a lot about the pros and cons of this roster. Yesterday showed that 
 * Shows elite arm strength ✅
 * Shows ability to maneuver in the pocket ✅
 * Shows ability to take of and run ✅
+
 He did it all. Ken Silver battled flu like symptoms all week. Not only did he show up but he showed out. He came up with a big TD grab in the back of the end zone and scored on a pick 6. Ken showed his warrior mentality yesterday and his teammates really appreciated that he gave it everything he had. Coach Holmes had the best game of his entire football career. His defense was solid and even had an interception that he took the distance for a TD. He had ZERO drops for the first time all year. He snuck into the end zone on offense with a 3 yard grab. Josh had his best day of the year as well. He was dynamic on offense and showed the ability to play multiple positions. He also showed up on defense. Defensive captain Justin Oshea asked Josh to line up against top tier talent and Josh accepted the challenge. Justin Oshea continued showing his defensive ability with another 3 interception day. Now if this team can play defense like this on game day they will be a tough out. The offense has already been unstoppable at times and if the defense can win man to man matchups, They will be scary. 
 
 ### Neighborhood Roadies
