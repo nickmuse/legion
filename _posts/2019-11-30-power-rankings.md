@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Rankings 12/23/2019"
+title: "Power Rankings 11/30/2019"
 categories:
   - Power Rankings
 tags:
