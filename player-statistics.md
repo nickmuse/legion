@@ -16,14 +16,7 @@ sidebar_link: true
         responsive: true,
         paging: false,
         searching: true,
-        responsive: {
-        breakpoints: [
-            { name: 'desktop', width: Infinity },
-            { name: 'tablet',  width: 1024 },
-            { name: 'fablet',  width: 768 },
-            { name: 'phone',   width: 480 }
-          ]
-        }
+        details: false
       });
     });
   </script>
