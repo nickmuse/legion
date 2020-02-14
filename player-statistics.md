@@ -6,19 +6,20 @@ sidebar_link: true
 
 <head>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.responsive.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.responsive.min.js"></script>
   <script>
     $(document).ready(function(){
       $('#stats').DataTable({
-        paging: false;
-        responsive: true;
+        paging: false
       });
     });
   </script>
 </head>
   
-<table id="stats" class="display" style="width:100%">
+<table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
         <tr>
             <th>Name</th>
