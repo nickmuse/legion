@@ -10,7 +10,7 @@ sidebar_link: true
   <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
   <script>
     $(document).ready(function(){
-      $('#stats').DataTable();
+      $('#stats').DataTable({paging: false});
     });
   </script>
 </head>
