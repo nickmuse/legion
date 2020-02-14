@@ -14,7 +14,8 @@ sidebar_link: true
     });
   </script>
 </head>
-
+<body leftmargin=0 rightmargin=0 topmargin=0 bottommargin=0>
+  
 <table id="stats" class="display" style="width:100%">
     <thead>
         <tr>
@@ -45,3 +46,5 @@ sidebar_link: true
         </tr>
     </tbody>
 </table>
+
+</body>
