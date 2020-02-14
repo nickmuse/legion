@@ -40,14 +40,5 @@ sidebar_link: true
             <td>1</td>
             <td>0</td>
         </tr>
-    <tfoot>
-        <tr>
-        <tr>
-            <th>Name</th>
-            <th>Rec</th>
-            <th>TD</th>
-            <th>QB Comp</th>
-            <th>QB TD</th>
-        </tr>
-    </tfoot>
+    </tbody>
 </table>
