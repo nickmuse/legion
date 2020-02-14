@@ -11,12 +11,14 @@ sidebar_link: true
   <!-- <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script> -->
   <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.responsive.min.js"></script>
   <script>
-    $(document).ready(function(){
-      $('#stats').DataTable({
-        "responsive": false,
-        "paging": false,
-        "searching": true
-      });
+    $(document).ready(function() {
+      $('#stats')
+        .addClass( 'nowrap' )
+        .DataTable({
+          "responsive": true,
+          "paging": false,
+          "searching": true
+        });
     });
   </script>
 </head>
