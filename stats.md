@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: Stats
 sidebar_link: true
 ---
 
