@@ -23,7 +23,7 @@ sidebar_link: true
           perPageSelect: false
         }
       });
-  $('#search-year').change( function() {
+  $('#Year').change( function() {
     var value = $(this).val();
     if (value === "") {dynatable.queries.remove("Year");} 
     else {dynatable.queries.add("Year",value);}
