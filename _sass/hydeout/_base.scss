@@ -85,7 +85,7 @@ select, input[type="text"], input[type="email"], input[type="search"], input[typ
   border-radius: $border-radius;
 }
 
-select, button, input[type="submit"] {
+button, input[type="submit"] {
   cursor: pointer;
   background: transparent;
   border-color: $border-color;
