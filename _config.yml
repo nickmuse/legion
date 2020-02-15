@@ -4,6 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Legends of Legion
+logo:             ../../legends_of_legion.svg
 tagline:          'Football League'
 description:      '🏈'
 url:              https://nickmuse.com
