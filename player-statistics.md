@@ -15,24 +15,18 @@ sidebar_link: true
   
   <script>$(document).ready(function() {
   
-      var dyntable = $('#stats').dynatable({
+      $('#stats').dynatable({
         features:{
           paginate: false,
           search: true,
           recordCount: false,
           perPageSelect: false
+        },
+        inputs: {
+          queries: $('#search-year')
         }
-      }).data('dynatable');
-      
-      
-      
-      $('#search-year').change( function() {
-        var value = $(this).val();
-        if (value === "") {dynatable.queries.remove("year");} 
-        else {dynatable.queries.add("year",value);}
-        dynatable.process();
       });
-
+      
   });</script>
   
 </head>
