@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Legends of Legion
 tagline:          'Football League'
 description:      '🏈'
-url:              https://nickmuse.com
+url:              https://legendsoflegion.com
 baseurl:          '/legion'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
