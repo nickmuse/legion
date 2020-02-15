@@ -35,8 +35,8 @@ sidebar_link: true
 <body style="margin-left:0px">
 <select id="search-year" name="Year">
   <option></option>
-  <option>19-20</option>
-  <option>18-19</option>
+  <option>2020</option>
+  <option>2019</option>
 </select>
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
@@ -51,7 +51,7 @@ sidebar_link: true
     <tbody>
       <tr>
         <td>Shoe</td>
-        <td>19-20</td>
+        <td>2020</td>
         <td>9</td>
         <td>3</td>
         <td>0</td>
@@ -60,7 +60,7 @@ sidebar_link: true
       </tr>
       <tr>
         <td>Shoe</td>
-        <td>18-19</td>
+        <td>2019</td>
         <td>9</td>
         <td>3</td>
         <td>0</td>
@@ -69,7 +69,7 @@ sidebar_link: true
       </tr>
       <tr>
         <td>Holmes</td>
-        <td>19-20</td>
+        <td>2019</td>
         <td>11</td>
         <td>5</td>
         <td>0</td>
@@ -78,7 +78,7 @@ sidebar_link: true
       </tr>
       <tr>
         <td>Holmes</td>
-        <td>18-19</td>
+        <td>2019</td>
         <td>10</td>
         <td>6</td>
         <td>0</td>
