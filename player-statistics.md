@@ -27,7 +27,7 @@ sidebar_link: true
     });
   </script>
 </head>
-  
+<body style="margin-left:100px">
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
       <th>Name</th>
@@ -43,3 +43,4 @@ sidebar_link: true
     <tbody>
     </tbody>
 </table>
+</body>
