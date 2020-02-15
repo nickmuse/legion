@@ -27,7 +27,7 @@ sidebar_link: true
         },
         dataset: {
           ajax: true,
-          ajaxUrl: '/stats.json',
+          ajaxUrl: '/_data/stats.json',
           ajaxOnLoad: true,
           records: []
         }
