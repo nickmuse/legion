@@ -47,13 +47,13 @@ Year:
 
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
-      <th>Name</th>
-      <th>Year</th>
-      <th>Rec</th>
-      <th>TD</th>
-      <th>Comp</th>
-      <th>PTD</th>
-      <th>W/GP</th>
+      <th data-dynatable-column="Name">Name</th>
+      <th data-dynatable-column="Year">Year</th>
+      <th data-dynatable-column="Rec">Rec</th>
+      <th data-dynatable-column="TD">TD</th>
+      <th data-dynatable-column="Comp">Comp</th>
+      <th data-dynatable-column="PTD">PTD</th>
+      <th data-dynatable-column="W/GP">W/GP</th>
     </thead>
     <tbody>
     </tbody>
