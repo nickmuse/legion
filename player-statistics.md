@@ -56,7 +56,7 @@ sidebar_link: true
         <td>3</td>
         <td>0</td>
         <td>0</td>
-        <td>2</td>
+        <td>1/2</td>
       </tr>
       <tr>
         <td>Shoe</td>
@@ -65,7 +65,7 @@ sidebar_link: true
         <td>3</td>
         <td>0</td>
         <td>0</td>
-        <td>2</td>
+        <td>2/2</td>
       </tr>
       <tr>
         <td>Holmes</td>
@@ -74,7 +74,7 @@ sidebar_link: true
         <td>5</td>
         <td>0</td>
         <td>0</td>
-        <td>2</td>
+        <td>2/2</td>
       </tr>
       <tr>
         <td>Holmes</td>
@@ -83,7 +83,7 @@ sidebar_link: true
         <td>6</td>
         <td>0</td>
         <td>6</td>
-        <td>2</td>
+        <td>1/2</td>
       </tr>
     </tbody>
 </table>
