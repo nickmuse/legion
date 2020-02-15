@@ -30,12 +30,16 @@ sidebar_link: true
   });</script>
   
 </head>
-<body style="margin-left:0px">
+  
+<span class="dyntable-search">
+"Year: "
 <select id="search-year" name="year">
   <option></option>
   <option>2020</option>
   <option>2019</option>
 </select>
+</span>
+
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
       <th>Name</th>
@@ -85,4 +89,3 @@ sidebar_link: true
       </tr>
     </tbody>
 </table>
-</body>
