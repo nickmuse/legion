@@ -16,7 +16,9 @@ sidebar_link: true
   <script>
     $(document).ready(function() {
       $('#stats')
-        .dynatable();
+        .dynatable({
+          paging:false
+        });
     });
   </script>
 </head>
