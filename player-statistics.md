@@ -28,8 +28,8 @@ sidebar_link: true
       
       $('#search-year').change( function() {
         var value = $(this).val();
-       if (value === "") {dynatable.queries.remove("Year");} 
-       else {dynatable.queries.add("Year",value);}
+        if (value === "") {dynatable.queries.remove("year");} 
+        else {dynatable.queries.add("year",value);}
         dynatable.process();
       });
 
@@ -37,7 +37,7 @@ sidebar_link: true
   
 </head>
 <body style="margin-left:0px">
-<select id="search-year" name="Year">
+<select id="search-year" name="year">
   <option></option>
   <option>2020</option>
   <option>2019</option>
