@@ -49,7 +49,7 @@ sidebar_link: true
       <th>TD</th>
       <th>Comp</th>
       <th>PTD</th>
-      <th>GP/W</th>
+      <th>W/GP</th>
     </thead>
     <tbody>
       <tr>
