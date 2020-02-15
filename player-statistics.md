@@ -49,6 +49,42 @@ sidebar_link: true
       <th>GP/W</th>
     </thead>
     <tbody>
+      <tr>
+        <td>Shoe</td>
+        <td>19-20</td>
+        <td>9</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Shoe</td>
+        <td>18-19</td>
+        <td>9</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Holmes</td>
+        <td>19-20</td>
+        <td>11</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Holmes</td>
+        <td>18-19</td>
+        <td>10</td>
+        <td>6</td>
+        <td>0</td>
+        <td>6</td>
+        <td>2</td>
+      </tr>
     </tbody>
 </table>
 </body>
