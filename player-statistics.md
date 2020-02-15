@@ -22,6 +22,9 @@ sidebar_link: true
           recordCount: false,
           perPageSelect: false
         }
+        inputs: {
+          queries: $('#search-year')
+        }
       });
   $('#search-year').change( function() {
     var value = $(this).val();
