@@ -17,7 +17,12 @@ sidebar_link: true
     $(document).ready(function() {
       $('#stats')
         .dynatable({
-          paging:false
+          features:{
+            paginate: false,
+            search: true,
+            recordCount: false,
+            perPageSelect: false
+          }
         });
     });
   </script>
