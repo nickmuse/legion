@@ -16,7 +16,7 @@ sidebar_link: true
   <!-- <pre id="json-records">{{site.data.stats}}</pre> -->
   
   <script>$(document).ready(function() {
-      var stats_json = JSON.parse({{site.data.stats}}.text());
+      var stats_json = JSON.parse({{site.data.stats | jsonify}}.text());
       $('#stats').dynatable({
         features:{
           paginate: false,
