@@ -9,10 +9,10 @@
  * Date: Tue Jan 02 2014
  */
 th a {
-  color: #fff;
+  color: #000;
 }
 th a:hover {
-  color: #fff;
+  color: #000;
   text-decoration: underline;
 }
 
@@ -57,10 +57,10 @@ th a:hover {
 .dynatable-active-page {
   background: #303030;
   border-radius: 5px;
-  color: #fff;
+  color: #000;
 }
 .dynatable-active-page:hover {
-  color: #fff;
+  color: #000;
 }
 .dynatable-disabled-page,
 .dynatable-disabled-page:hover {
