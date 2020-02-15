@@ -16,7 +16,7 @@ sidebar_link: true
   <!-- <pre id="json-records">{{site.data.stats}}</pre> -->
   
   <script>$(document).ready(function() {
-      var stats_json = JSON.parse({{site.data.stats | jsonify}}.text());
+
       $('#stats').dynatable({
         features:{
           paginate: false,
@@ -28,7 +28,7 @@ sidebar_link: true
           queries: $('#search-year')
         },
         dataset: {
-          records: stats_json
+          records: {{site.data.stats | jsonify}}
         }
       });
       
