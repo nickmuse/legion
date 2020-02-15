@@ -28,7 +28,7 @@ sidebar_link: true
           queries: $('#search-year')
         },
         dataset: {
-          records: [{"name":"Shoe","year":2020,"rec":5,"td":5,"comp":5,"ptd":5,"w":2},{"name":"Shoe","year":2019,"rec":4,"td":4,"comp":4,"ptd":4,"w":1}]
+          records: [{"name":"Shoe","year":2020,"rec":5,"td":5,"comp":5,"ptd":5,"w":2}, {"name":"Shoe","year":2019,"rec":4,"td":4,"comp":4,"ptd":4,"w":1}]
         }
       });
       
