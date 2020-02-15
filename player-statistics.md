@@ -12,7 +12,7 @@ sidebar_link: true
   <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
   <!-- <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.responsive.min.js"></script> -->
   <script src="jquery.dynatable.js"></script>
-  
+  <!-- [{"name":"Shoe","year":2020,"rec":5,"td":5,"comp":5,"ptd":5,"w":2}, {"name":"Shoe","year":2019,"rec":4,"td":4,"comp":4,"ptd":4,"w":1}] -->
   <!-- <pre id="json-records">{{site.data.stats}}</pre> -->
   {{site.data.stats | jsonify}}
   <script>$(document).ready(function() {
@@ -28,7 +28,7 @@ sidebar_link: true
           queries: $('#search-year')
         },
         dataset: {
-          records: [{"name":"Shoe","year":2020,"rec":5,"td":5,"comp":5,"ptd":5,"w":2}, {"name":"Shoe","year":2019,"rec":4,"td":4,"comp":4,"ptd":4,"w":1}]
+          records: {{site.data.stats | jsonify}}
         }
       });
       
