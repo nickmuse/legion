@@ -1,20 +1,20 @@
 [
     {
-      "Name": "Shoe",
-      "Year": 2020,
-      "Rec":  5,
-      "TD":   5,
-      "Comp": 5,
-      "PTD":  5,
-      "W/GP": 2/2
+      "name": "Shoe",
+      "year": 2020,
+      "rec":  5,
+      "td":   5,
+      "comp": 5,
+      "ptd":  5,
+      "w": 2
     },
     {
-      "Name": "Shoe",
-      "Year": 2019,
-      "Rec":  4,
-      "TD":   4,
-      "Comp": 4,
-      "PTD":  4,
-      "W/GP": 1/2
+      "name": "Shoe",
+      "year": 2019,
+      "rec":  4,
+      "td":   4,
+      "comp": 4,
+      "ptd":  4,
+      "w": 1
     }
 ]
