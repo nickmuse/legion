@@ -36,9 +36,7 @@ sidebar_link: true
       <th>TD</th>
       <th>Comp</th>
       <th>PTD</th>
-      <th>GP</th>
-      <th>Wins</th>
-      <th>Rings</th>
+      <th>GP/W</th>
     </thead>
     <tbody>
     </tbody>
