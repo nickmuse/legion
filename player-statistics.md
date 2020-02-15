@@ -23,7 +23,7 @@ sidebar_link: true
           perPageSelect: false
         }
       });
-  $('#Year').change( function() {
+  $('#search-year').change( function() {
     var value = $(this).val();
     if (value === "") {dynatable.queries.remove("Year");} 
     else {dynatable.queries.add("Year",value);}
@@ -33,7 +33,7 @@ sidebar_link: true
   </script>
 </head>
 <body style="margin-left:0px">
-<select id="Year" name="Year">
+<select id="search-year" name="Year">
   <option></option>
   <option>19-20</option>
   <option>18-19</option>
