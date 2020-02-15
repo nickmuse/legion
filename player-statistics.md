@@ -15,8 +15,6 @@ sidebar_link: true
   
   <script>
 
-    $(document).ready(function() {
-    
       var dyntable = $('#stats').dynatable({
         features:{
           paginate: false,
@@ -34,13 +32,9 @@ sidebar_link: true
        else {dynatable.queries.add("Year",value);}
         dynatable.process();
       });
-      
-      
-      
-});
-
 
   </script>
+  
 </head>
 <body style="margin-left:0px">
 <select id="search-year" name="Year">
