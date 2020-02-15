@@ -24,6 +24,12 @@ sidebar_link: true
         },
         inputs: {
           queries: $('#search-year')
+        },
+        dataset: {
+          ajax: true,
+          ajaxUrl: '/stats.json',
+          ajaxOnLoad: true,
+          records: []
         }
       });
       
@@ -40,6 +46,21 @@ Year:
 </select>
 </div>
 
+<table id="stats" class="display responsive nowrap" style="width:100%">
+    <thead>
+      <th>Name</th>
+      <th>Year</th>
+      <th>Rec</th>
+      <th>TD</th>
+      <th>Comp</th>
+      <th>PTD</th>
+      <th>W/GP</th>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<!--
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
       <th>Name</th>
@@ -89,3 +110,4 @@ Year:
       </tr>
     </tbody>
 </table>
+-->
