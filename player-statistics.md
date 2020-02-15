@@ -15,16 +15,21 @@ sidebar_link: true
   
   <script>
     $(document).ready(function() {
-      $('#stats')
-        .dynatable({
-          features:{
-            paginate: false,
-            search: true,
-            recordCount: false,
-            perPageSelect: false
-          }
-        });
+      $('#stats').dynatable({
+        features:{
+          paginate: false,
+          search: true,
+          recordCount: false,
+          perPageSelect: false
+        }
+      });
+  $('#search-year').change( function() {
+    var value = $(this).val();
+    if (value === "") {dynatable.queries.remove("Year");} 
+    else {dynatable.queries.add("Year",value);}
+    dynatable.process();
     });
+  });
   </script>
 </head>
 <body style="margin-left:0px">
