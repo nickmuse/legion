@@ -30,9 +30,6 @@ sidebar_link: true
           search: true,
           recordCount: false,
           perPageSelect: false
-        },
-        inputs: {
-          queries: $('#search-year')
         }
       });
     });
