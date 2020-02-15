@@ -14,6 +14,15 @@ sidebar_link: true
   <script src="jquery.dynatable.js"></script>
   
   <script>
+  
+    $('#search-year').change( function() {
+      var value = $(this).val();
+      if (value === "") {dynatable.queries.remove("Year");} 
+      else {dynatable.queries.add("Year",value);}
+      dynatable.process();
+    });
+  
+  
     $(document).ready(function() {
       $('#stats').dynatable({
         features:{
@@ -26,13 +35,9 @@ sidebar_link: true
           queries: $('#search-year')
         }
       });
-  $('#search-year').change( function() {
-    var value = $(this).val();
-    if (value === "") {dynatable.queries.remove("Year");} 
-    else {dynatable.queries.add("Year",value);}
-    dynatable.process();
     });
-  });
+
+
   </script>
 </head>
 <body style="margin-left:0px">
