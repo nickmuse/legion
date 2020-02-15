@@ -28,6 +28,11 @@ sidebar_link: true
   </script>
 </head>
 <body style="margin-left:0px">
+<select id="search-year" name="year">
+  <option></option>
+  <option>19-20</option>
+  <option>18-19</option>
+</select>
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
       <th>Name</th>
