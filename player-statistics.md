@@ -13,8 +13,8 @@ sidebar_link: true
   <!-- <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.responsive.min.js"></script> -->
   <script src="jquery.dynatable.js"></script>
   
-  <script>
-
+  <script>$(document).ready(function() {
+  
       var dyntable = $('#stats').dynatable({
         features:{
           paginate: false,
@@ -33,7 +33,7 @@ sidebar_link: true
         dynatable.process();
       });
 
-  </script>
+  });</script>
   
 </head>
 <body style="margin-left:0px">
