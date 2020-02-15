@@ -28,7 +28,7 @@ sidebar_link: true
           queries: $('#search-year')
         },
         dataset: {
-          records: {{site.data.stats | jsonify}}
+          records: JSON.parse($('#music').text({{site.data.stats | jsonify}}))
         }
       });
       
