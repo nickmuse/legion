@@ -28,7 +28,7 @@ sidebar_link: true
           queries: $('#search-year')
         },
         dataset: {
-          records: [{"Name":"Shoe","Year":2020,"Rec":5,"TD":5,"Comp":5,"PTD":5,"W/GP":"2/2"},{"Name":"Shoe","Year":2019,"Rec":4,"TD":4,"Comp":4,"PTD":4,"W/GP":"1/2"}]
+          records: [{"name":"Shoe","year":2020,"Rec":5,"TD":5,"Comp":5,"PTD":5,"W/GP":"2/2"},{"Name":"Shoe","Year":2019,"Rec":4,"TD":4,"Comp":4,"PTD":4,"W/GP":"1/2"}]
         }
       });
       
@@ -47,13 +47,13 @@ Year:
 
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
-      <th data-dynatable-column="Name">Name</th>
-      <th data-dynatable-column="Year">Year</th>
-      <th data-dynatable-column="Rec">Rec</th>
-      <th data-dynatable-column="TD">TD</th>
-      <th data-dynatable-column="Comp">Comp</th>
-      <th data-dynatable-column="PTD">PTD</th>
-      <th data-dynatable-column="W/GP">W/GP</th>
+      <th>Name</th>
+      <th>Year</th>
+      <th>Rec</th>
+      <th>TD</th>
+      <th>Comp</th>
+      <th>PTD</th>
+      <th>W</th>
     </thead>
     <tbody>
     </tbody>
