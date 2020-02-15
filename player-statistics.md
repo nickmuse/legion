@@ -13,8 +13,12 @@ sidebar_link: true
   <!-- <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.responsive.min.js"></script> -->
   <script src="jquery.dynatable.js"></script>
   
-  <script>$(document).ready(function() {
+  <pre id="json-records" contenteditable>
+    {{site.data.stats}}
+  </pre>
   
+  <script>$(document).ready(function() {
+      var $records = $('#json-records'), stats_json = JSON.parse($records.text());
       $('#stats').dynatable({
         features:{
           paginate: false,
@@ -24,12 +28,6 @@ sidebar_link: true
         },
         inputs: {
           queries: $('#search-year')
-        },
-        dataset: {
-          ajax: true,
-          ajaxUrl: '/_data/stats.json',
-          ajaxOnLoad: true,
-          records: []
         }
       });
       
