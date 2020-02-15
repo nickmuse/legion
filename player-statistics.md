@@ -30,13 +30,15 @@ sidebar_link: true
   });</script>
   
 </head>
-  
+
+<div align="right">
 Year: 
 <select id="search-year" name="year">
   <option></option>
   <option>2020</option>
   <option>2019</option>
 </select>
+</div>
 
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
