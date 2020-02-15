@@ -30,31 +30,16 @@ sidebar_link: true
   
 <table id="stats" class="display responsive nowrap" style="width:100%">
     <thead>
-        <tr>
-            <th>Name</th>
-            <th>Wins</th>
-            <th>Rec</th>
-            <th>TD</th>
-            <th>Comp</th>
-            <th>PTD</th>
-        </tr>
+      <th>Name</th>
+      <th>Year</th>
+      <th>Rec</th>
+      <th>TD</th>
+      <th>Comp</th>
+      <th>PTD</th>
+      <th>GP</th>
+      <th>Wins</th>
+      <th>Rings</th>
     </thead>
     <tbody>
-        <tr>
-            <td>Frank</td>
-            <td>6</td>
-            <td>2</td>
-            <td>1</td>
-            <td>27</td>
-            <td>11</td>
-        </tr>
-        <tr>
-            <td>Justin</td>
-            <td>4</td>
-            <td>18</td>
-            <td>9</td>
-            <td>1</td>
-            <td>0</td>
-        </tr>
     </tbody>
 </table>
