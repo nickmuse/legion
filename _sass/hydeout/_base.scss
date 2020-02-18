@@ -80,6 +80,8 @@ tbody tr:nth-child(odd) th {
 }
 
 select, input[type="text"], input[type="email"], input[type="search"], input[type="submit"], button {
+  font-family: $root-font-family;
+  font-size: $root-font-size;
   outline: none;
   padding: $padding-v $padding-h;
   border: 1px solid $border-color;
@@ -87,6 +89,8 @@ select, input[type="text"], input[type="email"], input[type="search"], input[typ
 }
 
 button, input[type="submit"] {
+  font-family: $root-font-family;
+  font-size: $root-font-size;
   outline: none;
   cursor: pointer;
   background: transparent;
