@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Championchips and Rosters
+title: Championships and Rosters
 sidebar_link: true
 ---
 
