@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <table width="80%">
-	<thead><th colspan="4" halign="center">2019-2020</th></thead>
+	<thead><th colspan="4" align="center">2019-2020</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -40,7 +40,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th colspan="4" halign="center">2018-2019</th></thead>
+	<thead><th colspan="4" align="center">2018-2019</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -75,7 +75,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th colspan="4" halign="center">2017-2018</th></thead>
+	<thead><th colspan="4" align="center">2017-2018</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -110,7 +110,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" halign="center">2016-2017</th></thead>
+	<thead><th colspan="4" align="center">2016-2017</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -145,7 +145,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" halign="center">2015-2016</th></thead>
+	<thead><th colspan="4" align="center">2015-2016</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -168,7 +168,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" halign="center">2014-2015</th></thead>
+	<thead><th colspan="4" align="center">2014-2015</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -191,7 +191,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" halign="center">2013-2014</th></thead>
+	<thead><th colspan="4" align="center">2013-2014</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -214,7 +214,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th colspan="4" halign="center">2012-2013</th></thead>
+	<thead><th colspan="4" align="center">2012-2013</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
