@@ -38,7 +38,9 @@ sidebar_link: true
 			<td>Colin<br>Delmonte<br>Mike C<br>Tyler</td>
 		</tr>
 	</tbody>
-	<thead><th>2018-2029</th></thead>
+	
+	
+	<thead><th>2018-2019</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -71,12 +73,9 @@ sidebar_link: true
 			<td></td>
 		</tr>
 	</tbody>
-</table>
-
-
-
-### 2017-2018
-<table width="80%">
+	
+	
+	<thead><th>2017-2018</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -109,12 +108,9 @@ sidebar_link: true
 			<td></td>
 		</tr>
 	</tbody>
-</table>
 
 
-
-### 2016-2017
-<table width="80%">
+	<thead><th>2016-2017</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -147,12 +143,9 @@ sidebar_link: true
 			<td></td>
 		</tr>
 	</tbody>
-</table>
 
 
-
-### 2015-2016
-<table width="80%">
+	<thead><th>2015-2016</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -173,12 +166,9 @@ sidebar_link: true
 			<td></td>
 		</tr>
 	</tbody>
-</table>
 
 
-
-### 2014-2015
-<table width="80%">
+	<thead><th>2014-2015</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -199,12 +189,9 @@ sidebar_link: true
 			<td></td>
 		</tr>
 	</tbody>
-</table>
 
 
-
-### 2013-2014
-<table width="80%">
+	<thead><th>2013-2014</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -225,12 +212,9 @@ sidebar_link: true
 			<td></td>
 		</tr>
 	</tbody>
-</table>
-
-
-
-### 2012-2013
-<table width="80%">
+	
+	
+	<thead><th>2012-2013</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
