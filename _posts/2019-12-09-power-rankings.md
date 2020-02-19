@@ -3,8 +3,10 @@ layout: post
 title: "Power Rankings 12/09/2019"
 categories:
   - Power Rankings
+  - Articles
 tags:
   - Power Rankings
+  - Articles
 ---
 
 ### Shirley Estate Mothmanian Devils
