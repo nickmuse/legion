@@ -17,7 +17,7 @@ sidebar_link: true
   
     function custom_writer(rowIndex, record, columns, cellWriter) {
 	row = '<tr>';
-	row += '<td><a href="/player-statistics.html?queries[search]=' + record.name + '&sorts[year]=-1">' + record.name + '</a></td>';
+	row += '<td><a href="/players.html?queries[search]=' + record.name + '&sorts[year]=-1">' + record.name + '</a></td>';
 	row += '<td>' + record.year + '</td>';
         row += '<td>' + record.rec + '</td>';
         row += '<td>' + record.td + '</td>';
