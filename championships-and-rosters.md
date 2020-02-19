@@ -4,8 +4,8 @@ title: Championships and Rosters
 sidebar_link: true
 ---
 
-### 2019-2020
 <table width="80%">
+	<thead><th>2019-2020</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -38,7 +38,7 @@ sidebar_link: true
 			<td>Colin<br>Delmonte<br>Mike C<br>Tyler</td>
 		</tr>
 	</tbody>
-	<thead>2019-2020</thead>
+	<thead><th>2018-2029</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
