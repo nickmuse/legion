@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frank's Power Rankings"
-author: "Frank"
+author: "Frank Semisa"
 categories:
   - Power Rankings
   - Articles
