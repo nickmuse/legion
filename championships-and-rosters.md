@@ -4,7 +4,7 @@ title: Championships and Rosters
 sidebar_link: true
 ---
 
-### 2019
+### 2019-2020
 <table width="80%">
 	<thead>
 		<th>Place</th>
