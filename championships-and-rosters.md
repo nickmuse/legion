@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <table width="80%">
-	<thead><th>2019-2020</th></thead>
+	<thead><th colspan="4">2019-2020</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -40,7 +40,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th>2018-2019</th></thead>
+	<thead><th colspan="4">2018-2019</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
