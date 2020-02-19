@@ -3,6 +3,7 @@ layout: post
 title: "Frank's Power Rankings"
 author: "Frank"
 categories:
+  - Power Rankings
   - Articles
 tags:
   - Power Rankings
