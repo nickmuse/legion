@@ -6,7 +6,7 @@ sidebar_link: true
 
 <style>
 .year {text-align:center;background-color:#013369;color:#FFFFFF;}
-.champs {background-color:#D50A0A;;color:#FFFFFF;font-weight:bold;}
+.champs {color:#D50A0A;font-weight:bold;}
 </style>
 
 <table width="80%">
