@@ -16,9 +16,9 @@ sidebar_link: true
   <script>$(document).ready(function() {
   
     function custom_writer(rowIndex, record, columns, cellWriter) {
-			  row = '<tr>';
-			  row += '<td><a href="google.com">' + record.name + '</a></td>';
-			  row += '<td>' + record.year + '</td>'
+	row = '<tr>';
+	row += '<td><a href="/stats2.html?queries[search]=' + record.name + '">' + record.name + '</a></td>';
+	row += '<td>' + record.year + '</td>'
         row += '<td>' + record.rec + '</td>'
         row += '<td>' + record.td + '</td>'
         row += '<td>' + record.comp + '</td>'
