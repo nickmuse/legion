@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 ### 2019
-<table>
+<table width="80%">
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
