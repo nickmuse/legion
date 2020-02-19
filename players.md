@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Player Statistics
+title: Player
 sidebar_link: true
 ---
 
