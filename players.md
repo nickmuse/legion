@@ -64,12 +64,12 @@ Year:
     <thead>
       <th>Name</th>
       <th>Year</th>
-      <th>Rec</th>
-      <th>RecTD</th>
+      <th>REC</th>
+      <th>RECTD</th>
       <th>RTD</th>
       <th>PTD</th>
-      <th>Int</th>
-      <th>Sac</th>
+      <th>INT</th>
+      <th>SAC</th>
     </thead>
     <tbody>
     </tbody>
