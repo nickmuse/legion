@@ -3,8 +3,10 @@ layout: post
 title: "Power Rankings 11/12/2019"
 categories:
   - Power Rankings
+  - Articles
 tags:
   - Power Rankings
+  - Articles
 ---
 
 ### Smith's Point Captains
