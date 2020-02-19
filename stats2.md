@@ -15,6 +15,19 @@ sidebar_link: true
 
   <script>$(document).ready(function() {
   
+    function custom_writer(rowIndex, record, columns, cellWriter) {
+			  row = '<tr>';
+			  row += '<td><a href="google.com">' + record.name + '</a></td>';
+			  row += '<td>' + record.year + '</td>'
+        row += '<td>' + record.rec + '</td>'
+        row += '<td>' + record.td + '</td>'
+        row += '<td>' + record.comp + '</td>'
+        row += '<td>' + record.ptd + '</td>'
+        row += '<td>' + record.w + '</td>'
+        row += '</tr>';
+			  return row;
+			}
+  
       $('#stats').dynatable({
         features:{
           paginate: false,
@@ -22,6 +35,9 @@ sidebar_link: true
           recordCount: false,
           perPageSelect: false
         },
+				writers: {
+					_rowWriter: custom_writer
+				},
         inputs: {
           queries: $('#search-year')
         },
