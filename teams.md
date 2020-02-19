@@ -8,7 +8,7 @@ sidebar_link: true
 .year {text-align:center;background-color:#013369;color:#FFFFFF;}
 .champs {color:#D50A0A;font-weight:bold;}
 .logo {width:40px;height:40px;vertical-align:middle;}
-td {vertical-align:middle;}
+td {vertical-align:middle;horizontal-align:center;}
 </style>
 
 \* - MVP
@@ -30,10 +30,7 @@ td {vertical-align:middle;}
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>
-				<img src="/roadies_logo.png" class="logo">
-				Neighborhood Roadies
-			</td>
+			<td>Neighborhood Roadies</td>
 			<td>Esco+Shoe</td>
 			<td>JJ<br>GMan<br>Maca<br>Dingo</td>
 		</tr>
