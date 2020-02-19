@@ -53,7 +53,7 @@ sidebar_link: true
 			<td>1</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan</td>
-			<td>Ian/Wesley<br>Renzo<br>Ray<br>Shoe</td>
+			<td><s>Ian</s>Wesley<br>Renzo<br>Ray<br>Shoe</td>
 		</tr>
 		<tr>
 			<td>2</td>
