@@ -15,6 +15,19 @@ sidebar_link: true
 
   <script>$(document).ready(function() {
   
+    function custom_writer(rowIndex, record, columns, cellWriter) {
+	row = '<tr>';
+	row += '<td><a href="/stats2.html?queries[search]=' + record.name + '&sorts[year]=1">' + record.name + '</a></td>';
+	row += '<td>' + record.year + '</td>';
+        row += '<td>' + record.rec + '</td>';
+        row += '<td>' + record.td + '</td>';
+        row += '<td>' + record.comp + '</td>';
+        row += '<td>' + record.ptd + '</td>';
+        row += '<td>' + record.w + '</td>';
+        row += '</tr>';
+	return row;
+	}
+  
       $('#stats').dynatable({
         features:{
           paginate: false,
@@ -22,6 +35,9 @@ sidebar_link: true
           recordCount: false,
           perPageSelect: false
         },
+	writers: {
+		_rowWriter: custom_writer
+	},
         inputs: {
           queries: $('#search-year')
         },
@@ -38,14 +54,8 @@ sidebar_link: true
 Year: 
 <select id="search-year" name="year">
   <option></option>
-  <option>2020</option>
-  <option>2019</option>
-  <option>2018</option>
-  <option>2017</option>
-  <option>2016</option>
-  <option>2015</option>
-  <option>2014</option>
-  <option>2013</option>
+  <option>2020</option><option>2019</option><option>2018</option><option>2017</option>
+  <option>2016</option><option>2015</option><option>2014</option><option>2013</option>
 </select>
 </div>
 
@@ -62,55 +72,3 @@ Year:
     <tbody>
     </tbody>
 </table>
-
-<!--
-<table id="stats" class="display responsive nowrap" style="width:100%">
-    <thead>
-      <th>Name</th>
-      <th>Year</th>
-      <th>Rec</th>
-      <th>TD</th>
-      <th>Comp</th>
-      <th>PTD</th>
-      <th>W/GP</th>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Shoe</td>
-        <td>2020</td>
-        <td>9</td>
-        <td>3</td>
-        <td>0</td>
-        <td>0</td>
-        <td>1/2</td>
-      </tr>
-      <tr>
-        <td>Shoe</td>
-        <td>2019</td>
-        <td>9</td>
-        <td>3</td>
-        <td>0</td>
-        <td>0</td>
-        <td>2/2</td>
-      </tr>
-      <tr>
-        <td>Holmes</td>
-        <td>2020</td>
-        <td>11</td>
-        <td>5</td>
-        <td>0</td>
-        <td>0</td>
-        <td>2/2</td>
-      </tr>
-      <tr>
-        <td>Holmes</td>
-        <td>2019</td>
-        <td>10</td>
-        <td>6</td>
-        <td>0</td>
-        <td>6</td>
-        <td>1/2</td>
-      </tr>
-    </tbody>
-</table>
--->
