@@ -4,8 +4,12 @@ title: Rosters & Rankings
 sidebar_link: true
 ---
 
+<style>
+.year {text-align:center;bgcolor:#000000;color:#FFFFFF;}
+</style>
+
 <table width="80%">
-	<thead><th colspan="4" style="text-align:center;">2019-2020</th></thead>
+	<thead><th class="year">2019-2020</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -40,7 +44,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th colspan="4" style="text-align:center;">2018-2019</th></thead>
+	<thead><th class="year">2018-2019</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -75,7 +79,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th colspan="4" style="text-align:center;">2017-2018</th></thead>
+	<thead><th class="year">2017-2018</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -110,7 +114,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" style="text-align:center;">2016-2017</th></thead>
+	<thead><th class="year">2016-2017</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -145,7 +149,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" style="text-align:center;">2015-2016</th></thead>
+	<thead><th class="year">2015-2016</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -168,7 +172,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" style="text-align:center;">2014-2015</th></thead>
+	<thead><th class="year">2014-2015</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -191,7 +195,7 @@ sidebar_link: true
 	</tbody>
 
 
-	<thead><th colspan="4" style="text-align:center;">2013-2014</th></thead>
+	<thead><th class="year">2013-2014</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
@@ -214,7 +218,7 @@ sidebar_link: true
 	</tbody>
 	
 	
-	<thead><th colspan="4" style="text-align:center;">2012-2013</th></thead>
+	<thead><th class="year">2012-2013</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
