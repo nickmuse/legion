@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rosters & Rankings
+title: Rosters & Placements
 sidebar_link: true
 ---
 
