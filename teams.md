@@ -55,7 +55,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan</td>
@@ -90,7 +90,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
@@ -125,7 +125,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
@@ -160,7 +160,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
@@ -183,7 +183,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
@@ -206,7 +206,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
@@ -229,7 +229,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
