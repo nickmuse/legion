@@ -6,6 +6,7 @@ sidebar_link: true
 
 <style>
 .year {text-align:center;background-color:#013369;color:#FFFFFF;}
+.champs {background-color:#D50A0A;;color:#FFFFFF;font-weight:bold;}
 </style>
 
 <table width="80%">
@@ -17,7 +18,7 @@ sidebar_link: true
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Shirley Estate Mothmanian Devils</td>
 			<td>Holmes</td>
