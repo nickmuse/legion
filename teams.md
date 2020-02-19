@@ -61,25 +61,25 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan</td>
-			<td><s>Ian</s>Wesley<br>Renzo<br>Ray<br>Shoe</td>
+			<td><s>Ian</s>Wesley<br>Renzo *<br>Ray<br>Shoe<br>Maca</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>Team Holmes</td>
-			<td>Holmes</td>
-			<td></td>
+			<td>Smith Point Johnnies</td>
+			<td>HC Johnny</td>
+			<td>Justin<br>Delmonte<br>Mike C<br>Josh<br>Swanson</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Smith Point Johnnies</td>
-			<td>HC Johnny</td>
-			<td></td>
+			<td>Team Osprey Park</td>
+			<td>GMan</td>
+			<td>Colin<br>Labo<br>JohnNay<br>Mr. Nino<br>Tyler</td>
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>Team Osprey Park</td>
-			<td>GMan</td>
-			<td></td>
+			<td>Team Moth</td>
+			<td>Holmes</td>
+			<td>Frank<br>Wesley<br>Nezario<br>Josh<br>Swanson</td>
 		</tr>
 	</tbody>
 	
@@ -96,25 +96,25 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td></td>
+			<td>Maca<br>Wesley<br>Labo<br>Renzo<br>GMan</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Johnny</td>
 			<td>HC Johnny</td>
-			<td></td>
+			<td>Justin *<br>Mike C<br>Ken<br>Esco<br>Swanson</td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>Team Dan</td>
 			<td>Dan</td>
-			<td></td>
+			<td>Marc<br>Ian<br>Delmonte<br>Ray<br>JohnNay<br>Elliot</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Team Holmes</td>
 			<td>Holmes</td>
-			<td></td>
+			<td>Colin<br>Nezario<br>Tyler<br>Shoe<br>Mr. Nino</td>
 		</tr>
 	</tbody>
 
@@ -130,26 +130,26 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td></td>
+			<td>Frank *</td>
+			<td>USC Steve<br>Justin<br>Ken<br>Renzo</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>Team Dan</td>
-			<td>Dan</td>
-			<td></td>
+			<td>Team Holmes</td>
+			<td>Holmes</td>
+			<td>Colin<br>JohnNay<br>Mr. Nino<br>Labo<br>Swanson</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Team Holmes</td>
+			<td>Team Dan</td>
 			<td>Dan</td>
-			<td></td>
+			<td>Ian<br>Delmonte<br>Tyler<br>Ray<br>Marc</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Team <s>Shoe</s> Johnny</td>
 			<td><s>Shoe</s> Johnny</td>
-			<td></td>
+			<td>Nezario<br>Maca<br>Esco<br>GMan</td>
 		</tr>
 	</tbody>
 
@@ -166,13 +166,13 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td></td>
+			<td>Justin<br>Ian *<br>Colin<br>Mr. Nino<br>HC Johnny<br>Maca<br>Labo</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Team Holmes</td>
+			<td>Holmes</td>
+			<td>USC Steve<br>GMan<br>JohnNay<br>Shoe<br>Ray<br>Esco</td>
 		</tr>
 	</tbody>
 
@@ -188,14 +188,14 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td></td>
+			<td>Frank *</td>
+			<td>Ian<br>Justin<br>Labo<br>GMan<br>Holmes</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Team Dan</td>
+			<td>Dan</td>
+			<td>Colin<br>Renzo<br>JohnNay<br>Mr. Nino<br>Marc<br>Shoe<br>Jammer</td>
 		</tr>
 	</tbody>
 
@@ -208,18 +208,19 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr class="champs">
+		<tr>
 			<td>1</td>
+			<td>Team Dan</td>
+			<td>Dan</td>
+			<td>Esco<br>Justin<br>Renzo<br>Labo<br>Mr. Nino<br>Holmes<br>Colin *</td>
+		</tr>
+		<tr class="champs">
+			<td>2</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td></td>
+			<td>Ian<br>GMan<br>HC Johnny<br>Ken<br>Shoe<br>Mike C<br>Elias</td>
 		</tr>
-		<tr>
-			<td>2</td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
+
 	</tbody>
 	
 	
@@ -235,13 +236,13 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td></td>
+			<td>Justin *<br>Esco<br>Marc<br>Mike C<br>Ray<br>Some Kid</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Team Dan</td>
+			<td>Dan</td>
+			<td>Holmes<br>Labo<br>Renzo<br>Mr. Nino<br>Ian<br>Colin</td>
 		</tr>
 	</tbody>
 </table>
