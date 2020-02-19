@@ -32,7 +32,7 @@
 {"name": "Ian",			"year":2019,	"rec":2,	"rectd":1,		"rtd":0,	"ptd":1,	"int":0,	"sac":0},
 {"name": "JohnNay",		"year":2019,	"rec":4,	"rectd":2,		"rtd":0,	"ptd":0,	"int":0,	"sac":0},
 {"name": "Josh",		"year":2019,	"rec":6,	"rectd":0,		"rtd":0,	"ptd":0,	"int":0,	"sac":0},
-{"name": "Justin",		"year":2019,	"rec":8,	"rectd":2,		"rtd":0,	"ptd":5,	"int":1,	"sac":0},
+{"name": "Justin",		"year":2019,	"rec":8,	"rectd":2,		"rtd":0,	"ptd":5,	"int":1,	"sac":1},
 {"name": "Labo",		"year":2019,	"rec":4,	"rectd":0,		"rtd":0,	"ptd":2,	"int":0,	"sac":0},
 {"name": "Maca",		"year":2019,	"rec":11,	"rectd":2,		"rtd":0,	"ptd":0,	"int":0,	"sac":0},
 {"name": "Mike C",		"year":2019,	"rec":4,	"rectd":2,		"rtd":0,	"ptd":3,	"int":0,	"sac":0},
