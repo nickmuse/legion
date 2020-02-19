@@ -9,6 +9,8 @@ sidebar_link: true
 .champs {color:#D50A0A;font-weight:bold;}
 </style>
 
+\* - MVP
+
 <table width="80%">
 	<thead><th colspan="4" class="year">2019-2020</th></thead>
 	<thead>
@@ -22,7 +24,7 @@ sidebar_link: true
 			<td>1</td>
 			<td>Shirley Estate Mothmanian Devils</td>
 			<td>Holmes</td>
-			<td>Justin<br>Frank<br>Ken<br>Josh</td>
+			<td>Justin<br>Frank \*<br>Ken<br>Josh</td>
 		</tr>
 		<tr>
 			<td>2</td>
