@@ -24,7 +24,7 @@ sidebar_link: true
 			<td>1</td>
 			<td>Shirley Estate Mothmanian Devils</td>
 			<td>Holmes</td>
-			<td>Justin<br>Frank \*<br>Ken<br>Josh</td>
+			<td>Justin<br>Frank *<br>Ken<br>Josh</td>
 		</tr>
 		<tr>
 			<td>2</td>
