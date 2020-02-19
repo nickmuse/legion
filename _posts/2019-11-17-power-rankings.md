@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Power Rankings 11/17/2019"
+title: "Frank's Power Rankings"
+author: "Frank"
 categories:
   - Power Rankings
   - Articles
