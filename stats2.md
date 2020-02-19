@@ -18,15 +18,15 @@ sidebar_link: true
     function custom_writer(rowIndex, record, columns, cellWriter) {
 	row = '<tr>';
 	row += '<td><a href="/stats2.html?queries[search]=' + record.name + '&sorts[year]=1">' + record.name + '</a></td>';
-	row += '<td>' + record.year + '</td>'
-        row += '<td>' + record.rec + '</td>'
-        row += '<td>' + record.td + '</td>'
-        row += '<td>' + record.comp + '</td>'
-        row += '<td>' + record.ptd + '</td>'
-        row += '<td>' + record.w + '</td>'
+	row += '<td>' + record.year + '</td>';
+        row += '<td>' + record.rec + '</td>';
+        row += '<td>' + record.td + '</td>';
+        row += '<td>' + record.comp + '</td>';
+        row += '<td>' + record.ptd + '</td>';
+        row += '<td>' + record.w + '</td>';
         row += '</tr>';
-			  return row;
-			}
+	return row;
+	}
   
       $('#stats').dynatable({
         features:{
@@ -35,9 +35,9 @@ sidebar_link: true
           recordCount: false,
           perPageSelect: false
         },
-				writers: {
-					_rowWriter: custom_writer
-				},
+	writers: {
+		_rowWriter: custom_writer
+	},
         inputs: {
           queries: $('#search-year')
         },
