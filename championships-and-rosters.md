@@ -38,7 +38,7 @@ sidebar_link: true
 			<td>Colin<br>Delmonte<br>Mike C<br>Tyler</td>
 		</tr>
 	</tbody>
-
+	<thead>2019-2020</thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
