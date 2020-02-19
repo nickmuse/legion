@@ -38,12 +38,7 @@ sidebar_link: true
 			<td>Colin<br>Delmonte<br>Mike C<br>Tyler</td>
 		</tr>
 	</tbody>
-</table>
 
-
-
-### 2018-2019
-<table width="80%">
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
