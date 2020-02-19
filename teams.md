@@ -7,7 +7,8 @@ sidebar_link: true
 <style>
 .year {text-align:center;background-color:#013369;color:#FFFFFF;}
 .champs {color:#D50A0A;font-weight:bold;}
-.logo {width:40px;height:40px}
+.logo {width:40px;height:40px;vertical-align:middle;}
+td {vertical-align:middle;}
 </style>
 
 \* - MVP
