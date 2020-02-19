@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rosters & Placements
+title: Teams
 sidebar_link: true
 ---
 
