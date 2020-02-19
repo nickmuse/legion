@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Championships and Rosters
+title: Rosters & Rankings
 sidebar_link: true
 ---
 
