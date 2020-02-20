@@ -208,13 +208,13 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Dan</td>
 			<td>Dan</td>
 			<td>Esco<br>Justin<br>Renzo<br>Labo<br>Mr. Nino<br>Holmes<br>Colin *</td>
 		</tr>
-		<tr class="champs">
+		<tr>
 			<td>2</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
