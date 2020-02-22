@@ -60,7 +60,7 @@ Year:
 </select>
 </div>
 
-<table id="stats" class="display responsive nowrap" style="width:100%">
+<table id="stats" class="display responsive nowrap" style="width:80%">
     <thead>
       <th>Name</th>
       <th>Year</th>
