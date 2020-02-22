@@ -30,7 +30,7 @@ This team was bad offensively. This team was bad defensively. Ken Silver gashed 
 
 ## Smith Point Captains
 
-<img src="https://lh3.googleusercontent.com/ooFlMKyiif1lWTrJBp4mYjY2vmL9BMYyUgUnApM-XiDvx5wyjHTrxDC66DbmZX3MiTaXuWmSa37BZ3hvYEZT-oIocqfWpdOlfUX1Mey--A2dR6xubkPL_by_866hKqckcNqyVTw4Ag=w2400">
+<img src="https://lh3.googleusercontent.com/tysdtNT9ZH2KmkQjCYy49XAaP0D17niqb4cNGCHIUPpjxOB0Tbgo2Ad34OK9PlJjuE2t41hK4IsB0D6A_L2yUk7NS_BaYMuQj-p4QUXVo-8Qid5gf0L85mR_UruekFCNDh-HF8mvqQ=w2400">
 
 ##### Frank's Analysis
 
