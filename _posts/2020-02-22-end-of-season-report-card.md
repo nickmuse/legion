@@ -16,9 +16,9 @@ tags:
 
 <br><br><br>
 
-<img src="https://lh3.googleusercontent.com/ooFlMKyiif1lWTrJBp4mYjY2vmL9BMYyUgUnApM-XiDvx5wyjHTrxDC66DbmZX3MiTaXuWmSa37BZ3hvYEZT-oIocqfWpdOlfUX1Mey--A2dR6xubkPL_by_866hKqckcNqyVTw4Ag=w2400">
+# Poospatuck Smokes
 
-## Poospatuck Smokes
+<img src="https://lh3.googleusercontent.com/ooFlMKyiif1lWTrJBp4mYjY2vmL9BMYyUgUnApM-XiDvx5wyjHTrxDC66DbmZX3MiTaXuWmSa37BZ3hvYEZT-oIocqfWpdOlfUX1Mey--A2dR6xubkPL_by_866hKqckcNqyVTw4Ag=w2400">
 
 ##### Frank's Analysis
 A predictable end to a frustrating season for coach Dan. I still truly believe that this team had enough talent to compete but instead we saw a team that got down early and quit on their coach. The members of the Smokes can only blame themselves. The only player who consistently showed up to scrimmages was Coach Dan himself, and somehow he is going to be blamed for this team's failures.
@@ -33,8 +33,7 @@ This team was bad offensively. This team was bad defensively. Ken Silver gashed 
 ##### Frank's Grade: F
 <br><br><br>
 
-## Smith Point Captains
-
+# Smith Point Captains
 
 <img src="https://lh3.googleusercontent.com/tysdtNT9ZH2KmkQjCYy49XAaP0D17niqb4cNGCHIUPpjxOB0Tbgo2Ad34OK9PlJjuE2t41hK4IsB0D6A_L2yUk7NS_BaYMuQj-p4QUXVo-8Qid5gf0L85mR_UruekFCNDh-HF8mvqQ=w2400">
 
@@ -52,8 +51,7 @@ This team would have been so much fun to watch had they practiced together at al
 ##### Frank's Grade: D
 <br><br><br>
 
-## Neighborhood Roadies
-
+# Neighborhood Roadies
 
 <img src="https://lh3.googleusercontent.com/fYyzyw-9dNZp3MarbGCGzqwKU1Cx0MnK0FdKfKIWrZNO3m2X32T7qYHQLJRG9epT1tdO6-9XOB5j8QG91X97kAAobQzA-6Nh6VIWl9VcCmv5NM84JNL844v0tpEX13xYRz-0--_ivA=w2400">
 
@@ -72,8 +70,7 @@ It’s hard to grade the Roadies' year. The problem is that there are no moral v
 ##### Frank's Grade: B+
 <br><br><br>
 
-## Shirley Estate Mothmanian Devils
-
+# Shirley Estate Mothmanian Devils
 
 <img src="https://lh3.googleusercontent.com/rcoEPtFS-zgam85E2B3H8PGegfcQiPfb45KhQN74I2KUxpRNQUMSWrXR_eo2Uz48G6WfxLpCCh0QEai3_H1ht8giJy8C36W_v8I3Y6lV7bSSZntK0B3v9GsEbxGYhVAWapfWeEgYtg=w2400">
 
