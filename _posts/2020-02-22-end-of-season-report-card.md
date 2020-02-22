@@ -84,6 +84,8 @@ With the first overall pick last year, he selected Frank Semisa. The man who had
 
 Going into THIS season, Coach Holmes refused to quit on the guys he felt worked hard for him. He used his keeper provision on Josh Paini. Josh had a nice rookie campaign and coach Holmes saw the potential. He brought back Frank Semisa. He took Justin O'Shea 1st overall. His patience paid off. Getting Frank and Justin on the same team had been a dream for coach Holmes, and he finally pulled it off. In round 3 coach Holmes had to make a difficult decision. Names on the board included John Maca and Ray Sullivan. Frank and Justin urged him to take a chance on Ken Silver. Holmes trusted his teammates and made the pick. This would prove to be the most important draft pick of the year.
 
+<img src="https://lh3.googleusercontent.com/9PzlmBGkCddcEcoPUXzQ6yNHuitdjFHdzkMYvumzhX_m1ygXGKw0aLvqeP8cIVjhEMI8DAwWKPKhAjIcaPevCbQjstfX_KphODgGLQwoAP-vjnE6qGpRaGNJyxhIZcmVsjslqSH09Q=w2400">
+
 This team put in the work at every single scrimmage. Franks historic “Audible Offense” is complex. The terminology can be difficult to comprehend, and much more difficult to master. This team studied and showed week after week that it was ready for game day.
 
 A 5-0 victory over reigning champions, MVP Renzo and the Poospatuck Smokes, looked easy to this team. Ken silver had 5 catches and 2 scores. Frank Semisa was unstoppable. This offense scored every time they touched the ball. Including a beautiful goal line TD grab by Josh Paini.
@@ -98,6 +100,3 @@ This team was a cohesive unit from draft night to game day, and the hard work fi
 - Your LOL 2020 Jim Tully Champions
 
 ##### Frank's Grade: A
-
-<br><br>
-<img src="https://lh3.googleusercontent.com/9PzlmBGkCddcEcoPUXzQ6yNHuitdjFHdzkMYvumzhX_m1ygXGKw0aLvqeP8cIVjhEMI8DAwWKPKhAjIcaPevCbQjstfX_KphODgGLQwoAP-vjnE6qGpRaGNJyxhIZcmVsjslqSH09Q=w2400">
