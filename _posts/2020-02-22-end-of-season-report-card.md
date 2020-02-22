@@ -30,6 +30,8 @@ This team was bad offensively. This team was bad defensively. Ken Silver gashed 
 
 ## Smith Point Captains
 
+<img src="https://lh3.googleusercontent.com/ooFlMKyiif1lWTrJBp4mYjY2vmL9BMYyUgUnApM-XiDvx5wyjHTrxDC66DbmZX3MiTaXuWmSa37BZ3hvYEZT-oIocqfWpdOlfUX1Mey--A2dR6xubkPL_by_866hKqckcNqyVTw4Ag=w2400">
+
 ##### Frank's Analysis
 
 We were told over and over that this team did not need to practice. We were told over and over that this team had too much talent across the board to fail. In Johnny Vega’s final year as a coach we saw zero effort, zero accountability, zero preparation and zero heart.
@@ -63,6 +65,8 @@ It’s hard to grade the Roadies' year. The problem is that there are no moral v
 
 
 ## Shirley Estate Mothmanian Devils
+
+<img src="https://lh3.googleusercontent.com/rcoEPtFS-zgam85E2B3H8PGegfcQiPfb45KhQN74I2KUxpRNQUMSWrXR_eo2Uz48G6WfxLpCCh0QEai3_H1ht8giJy8C36W_v8I3Y6lV7bSSZntK0B3v9GsEbxGYhVAWapfWeEgYtg=w2400">
 
 ##### Frank's Analysis
 
