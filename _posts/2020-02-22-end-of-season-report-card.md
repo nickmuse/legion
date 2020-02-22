@@ -48,6 +48,8 @@ This team would have been so much fun to watch had they practiced together at al
 
 ## Neighborhood Roadies
 
+<img src="https://lh3.googleusercontent.com/fYyzyw-9dNZp3MarbGCGzqwKU1Cx0MnK0FdKfKIWrZNO3m2X32T7qYHQLJRG9epT1tdO6-9XOB5j8QG91X97kAAobQzA-6Nh6VIWl9VcCmv5NM84JNL844v0tpEX13xYRz-0--_ivA=w2400">
+
 ##### Frank's Analysis
 
 When co-coaches Shoe and Esco heard that they had lost their 1st round draft selection Ian Tully, they did not panic. They had seen plenty of JJ during the preseason and knew that they’d be getting a great player. JJ was the most impressive rookie that this league has EVER seen! He took over for not only a 1st round pick, but for perennial all-star Ian Tully. You would think that the pressure of replacing a hall-of-famer would rattle any rookie, but JJ was no ordinary rookie. He was this team’s unquestioned go-to option. He had 12 catches and 4 touchdowns. That’s a crazy big day for any player, but for a rookie it was simply legendary. Nick Muse had his best season yet. His 3 TD grabs were a career high. Esco tied his career high with 2 TD receptions. Shoe and Esco worked very well together as 50/50 coaches. Both had strong voices in the huddle and both commanded the respect of their teammates. Dingo and Maca both played well, but after watching the film it seems like they both went unnoticed by QB Nick Geraci. Both players were able to create separation all day, but neither had a big statistical impact.
