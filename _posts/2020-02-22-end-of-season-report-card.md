@@ -9,6 +9,8 @@ tags:
   - Power Rankings
   - Articles
 ---
+<img src="https://lh3.googleusercontent.com/T5qudztE2SlwMUCnGCFGMCL2cxSHIv10goJPWUZSXCTL44MXjY4bVikwkNefkY3E6-4zN_yOhjP9LUc3fXyQAuO8fYwCKGRP0JRToRbPC8fMozNd6muPQFn-pafgh5-5s1HJAOPu0A=w2400">
+<br><br><br>
 
 ## Poospatuck Smokes
 
@@ -94,3 +96,6 @@ This team was a cohesive unit from draft night to game day, and the hard work fi
 - Your LOL 2020 Jim Tully Champions
 
 ##### Frank's Grade: A
+
+<br><br>
+<img src="https://lh3.googleusercontent.com/9PzlmBGkCddcEcoPUXzQ6yNHuitdjFHdzkMYvumzhX_m1ygXGKw0aLvqeP8cIVjhEMI8DAwWKPKhAjIcaPevCbQjstfX_KphODgGLQwoAP-vjnE6qGpRaGNJyxhIZcmVsjslqSH09Q=w2400">
