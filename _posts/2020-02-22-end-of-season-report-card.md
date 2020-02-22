@@ -10,12 +10,14 @@ tags:
   - Articles
 ---
 
+<img src="https://lh3.googleusercontent.com/T5qudztE2SlwMUCnGCFGMCL2cxSHIv10goJPWUZSXCTL44MXjY4bVikwkNefkY3E6-4zN_yOhjP9LUc3fXyQAuO8fYwCKGRP0JRToRbPC8fMozNd6muPQFn-pafgh5-5s1HJAOPu0A=w2400">
+
 *an in-depth analysis of this year's big game day*
 
-<img src="https://lh3.googleusercontent.com/T5qudztE2SlwMUCnGCFGMCL2cxSHIv10goJPWUZSXCTL44MXjY4bVikwkNefkY3E6-4zN_yOhjP9LUc3fXyQAuO8fYwCKGRP0JRToRbPC8fMozNd6muPQFn-pafgh5-5s1HJAOPu0A=w2400">
 <br><br><br>
 
 <img src="https://lh3.googleusercontent.com/ooFlMKyiif1lWTrJBp4mYjY2vmL9BMYyUgUnApM-XiDvx5wyjHTrxDC66DbmZX3MiTaXuWmSa37BZ3hvYEZT-oIocqfWpdOlfUX1Mey--A2dR6xubkPL_by_866hKqckcNqyVTw4Ag=w2400">
+
 ## Poospatuck Smokes
 
 ##### Frank's Analysis
