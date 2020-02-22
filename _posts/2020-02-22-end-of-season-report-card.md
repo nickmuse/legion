@@ -12,6 +12,7 @@ tags:
 
 ## Poospatuck Smokes
 
+
 <img src="https://lh3.googleusercontent.com/ooFlMKyiif1lWTrJBp4mYjY2vmL9BMYyUgUnApM-XiDvx5wyjHTrxDC66DbmZX3MiTaXuWmSa37BZ3hvYEZT-oIocqfWpdOlfUX1Mey--A2dR6xubkPL_by_866hKqckcNqyVTw4Ag=w2400">
 
 ##### Frank's Analysis
@@ -24,11 +25,11 @@ This team was bad offensively. This team was bad defensively. Ken Silver gashed 
 ##### Result
 - 0-5 loss to the Shirley Estate Mothmanian Devils
 
-##### Grade
-- F
-
+##### Frank's Grade: F
+<br><br><br>
 
 ## Smith Point Captains
+
 
 <img src="https://lh3.googleusercontent.com/tysdtNT9ZH2KmkQjCYy49XAaP0D17niqb4cNGCHIUPpjxOB0Tbgo2Ad34OK9PlJjuE2t41hK4IsB0D6A_L2yUk7NS_BaYMuQj-p4QUXVo-8Qid5gf0L85mR_UruekFCNDh-HF8mvqQ=w2400">
 
@@ -43,10 +44,11 @@ This team would have been so much fun to watch had they practiced together at al
 ##### Result
 - 3-5 loss to the Neighborhood Roadies
 
-##### Grade
-- D
+##### Frank's Grade: D
+<br><br><br>
 
 ## Neighborhood Roadies
+
 
 <img src="https://lh3.googleusercontent.com/fYyzyw-9dNZp3MarbGCGzqwKU1Cx0MnK0FdKfKIWrZNO3m2X32T7qYHQLJRG9epT1tdO6-9XOB5j8QG91X97kAAobQzA-6Nh6VIWl9VcCmv5NM84JNL844v0tpEX13xYRz-0--_ivA=w2400">
 
@@ -62,11 +64,11 @@ It’s hard to grade the Roadies' year. The problem is that there are no moral v
 - 5-3 victory over the Smith Point Captains
 - 3-5 loss to the Shirley Estate Mothmanian Devils
 
-##### Grade
-- B+
-
+##### Frank's Grade: B+
+<br><br><br>
 
 ## Shirley Estate Mothmanian Devils
+
 
 <img src="https://lh3.googleusercontent.com/rcoEPtFS-zgam85E2B3H8PGegfcQiPfb45KhQN74I2KUxpRNQUMSWrXR_eo2Uz48G6WfxLpCCh0QEai3_H1ht8giJy8C36W_v8I3Y6lV7bSSZntK0B3v9GsEbxGYhVAWapfWeEgYtg=w2400">
 
@@ -91,5 +93,4 @@ This team was a cohesive unit from draft night to game day, and the hard work fi
 - 5-3 victory over the Neighborhood Roadies
 - Your LOL 2020 Jim Tully Champions
 
-##### Grade
-- A
+##### Frank's Grade: A
