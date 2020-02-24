@@ -53,7 +53,7 @@ I don't have a deep background in football. I grew up watching hockey, and that 
 <p>Coach Holmes selecting an unamused Frank in the 2nd Round &bull; 11/10/19</p>
 </div>
 
-As the Draft Party dust settled, it was only natural that we really start to get our priorities in order. I finished up the sickest slice of cheesecake, squared up my bill with Mr. Nino, and proceeded to enter the think tank. What exactly did I want to prove this year? What small victory could we still walk away with if not the Championchip itself? I re-emerged with my mission statements organized into these key points:
+As the Draft Party dust settled, it was only natural that we really start to get our priorities in order. I finished up the sickest slice of cheesecake, squared up my bill with Mr. Nino, and proceeded to enter the think tank. What exactly did I want to prove this year? What small victory could we still walk away with if not the Championship itself? I re-emerged with my mission statements organized into these key points:
 
 - You don't just pass up a guy like Gman in the first round
 - You don't just pass up a guy like Maca in the second round
