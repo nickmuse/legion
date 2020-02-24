@@ -53,7 +53,7 @@ We were on thin ice from the beginning and desperately needed to pick our battle
 <p>Coach Holmes selecting an unamused Frank in the 2nd Round &bull; 11/10/19</p>
 </div>
 
-After the all the draft party dust was settled, it was only natural that we really start to get our priorities in order. I finished up the sickest slice of cheesecake, squared up my bill with Mr. Nino, and proceeded to enter the think tank. What exactly did I want to prove this year? What small victory could we still walk away with if not the Championchip itself? I re-emerged with my mission statements organized into these key points:
+As the Draft Party dust settled, it was only natural that we really start to get our priorities in order. I finished up the sickest slice of cheesecake, squared up my bill with Mr. Nino, and proceeded to enter the think tank. What exactly did I want to prove this year? What small victory could we still walk away with if not the Championchip itself? I re-emerged with my mission statements organized into these key points:
 
 - You don't just pass up a guy like Gman in the first round
 - You don't just pass up a guy like Maca in the second round
@@ -72,7 +72,10 @@ I'm not going to lie to you. Losing Ian at sea was devastating. After all, he wa
 Enter JJ. With a new name in the family, we had to make an amendment to our key points. What we came up with was this:
 - You don't just let a guy like JJ play football.
 
-(image of JJ catch)
+<div class="photo">
+<img src="">
+<p class="nested">JJ Catch on Game Day &bull; 02/01/20</p>
+</div>
 
 Fast forward. The Mothmanian Devils truly deserve the trophy, but we all know that Holmes is gonna sell that thing on Craigslist for twice as much as he bought it for. And that's the type of franchise management that catches up to you eventually. At the end of the day, we shook some ground. I hope that doing it without big name picks or a five-time champion QB has at least established the Roadies as a household brand you can trust, and more importantly evolved the level of respect that the true dogs on our roster deserve.
 
