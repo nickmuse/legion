@@ -7,14 +7,9 @@ author: "Nick M"
 
 <style>
 
-.img_sub {
-  font-style:italic;
-  font-size:12px;
-  margin:0px 0px 0px 0px;
-}
-
 .photo {
   padding:0px;
+  margin:0px 0px 20px 0px;
 }
 .photo img {
   margin:0px 0px 0px 0px;
@@ -22,7 +17,7 @@ author: "Nick M"
 .photo p {
 font-style:italic;
 font-size:12px;
-margin:0px 15px 0px 0px;
+margin:0px 0px 0px 0px;
 }
 
 .nested_left {
@@ -34,12 +29,6 @@ margin:0px 15px 0px 0px;
   width:50%;
   margin:0px 0px 0px 10px;
   float:right
-}
-.nested_left p {
-  margin:0px 0px 0px 0px;
-}
-.nested_right p {
-  margin:0px 0px 0px 0px;
 }
 
 </style>
