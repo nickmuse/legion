@@ -8,12 +8,12 @@ author: "Nick Muse"
 The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
 
 <img src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
-*The Jim Tully at Cucina Family Style Ristorante &bull; 11/10/19*
+<sup>*The Jim Tully at Cucina Family Style Ristorante &bull; 11/10/19*</sup>
 
 The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
 
 <img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">
-*Co-Coaches Esco and Shoe at Draft Party &bull; 11/10/19*
+<sup>*Co-Coaches Esco and Shoe at Draft Party &bull; 11/10/19*</sup>
 
 We were on thin ice from the beginning and desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more importantly a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to, with one major exception: The projected second-round Frank Semisa pick was not available when the time came.
 
@@ -27,7 +27,7 @@ After the all the draft party dust was settled, it was only natural that we real
 - You don't just stack Esco and I on a team, take away a fifth round pick, and call it a deal.
 
 <img src="https://lh3.googleusercontent.com/703kLQlLePCvtz0yb4MAo_P9pFX7Dn-nmglAtwXjOo8aEAOrYeeQSsSIgScpy5hAhyJC5VPFXb8PbtGdFs-ddZ5tYSM9FntEfiHSfb11Sd8hmdsiCnElTHkfzrA0vxDYcQg4Pt_XCQ=w2400">
-*Roadies at Draft Party &bull; 11/10/19*
+<sup>*Roadies at Draft Party &bull; 11/10/19*</sup>
 
 We set out to increase the draft stock of each individual brave enough to call themself a Roadie. Not because we wanted to make drafting more challenging for ourselves in the future, but because the league was long overdue for a re-evaluation of who eats in the big dogs pen, and who snacks on Oreo O's at the kid's table.
 
