@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I coached a Team
+title: The year I Coached a Team
 sidebar_link: false
 author: "Nick M"
 ---
@@ -84,6 +84,6 @@ Fast forward. The Mothmanian Devils truly deserve the trophy, but we all know th
 <p class="nested">Roadies on Game Day &bull; 02/01/20</p>
 </div>
 
-I wasn't sure how to close this off. We hail from an area where people take their Boa Constrictors for walks, drive lawn mowers when their cars won't start, and somehow somebody gets shot with a bow and arrow annually. It gets dark around here. However, time again, the Draft Party and Game Day re-establish themselves as two of the best Holidays in my year. Not a lot of people can say that they still bug out with their friends like this 15 years after high school. To those that have rationalized ways to distance themselves from these celebrations of friendship, I hope for a short path to reacquainting yourslef with why Legends of Legion is so great. Because it might not survive too long without ya'll, and some of us kinda need this.
+I wasn't sure how to close this off. We hail from an area where people take their Boa Constrictors for walks, drive lawn mowers when their cars won't start, and somehow somebody gets shot with a bow and arrow annually. It gets dark around here. However, time again, the Draft Party and Game Day re-establish themselves as two of the best Holidays in my year. Not a lot of people can say that 15 years after high school, they still bug out with their friends like this. To those that have rationalized ways to distance themselves from these celebrations of friendship, I hope for a short path to reacquainting yourslef with why Legends of Legion is so great. Because it might not survive too long without ya'll, and some of us kinda need this.
 
-shoe
+Shoe
