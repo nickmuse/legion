@@ -8,14 +8,12 @@ author: "Nick Muse"
 <style>
 .img_left {
 width:50%;
-height:50%;
 margin:0px 0px 0px 0px;
 padding:0px;
 float:left
 }
 .img_right {
 width:50%;
-height:50%;
 margin:0px 0px 0px 0px;
 padding:0px;
 float:right
