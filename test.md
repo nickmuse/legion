@@ -22,7 +22,7 @@ author: "Nick M"
 .photo p {
 font-style:italic;
 font-size:12px;
-margin:0px 0px 0px 0px;
+margin:0px 15px 0px 0px;
 }
 
 .nested_left {
@@ -36,10 +36,10 @@ margin:0px 0px 0px 0px;
   float:right
 }
 .nested_left p {
-  margin:0px 10px 0px 0px;
+  margin:0px 0px 0px 0px;
 }
 .nested_right p {
-  margin:0px 10px 0px 0px;
+  margin:0px 0px 0px 0px;
 }
 
 </style>
