@@ -18,6 +18,10 @@ margin:0px 0px 0px 5px;
 padding:0px;
 float:right
 }
+.img_sub {
+font-style:italic;
+font-size:12px;
+}
 </style>
 
 <img src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
