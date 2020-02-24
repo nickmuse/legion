@@ -34,7 +34,7 @@ The Jim Tully is so much more than a trophy. It represents layers of tenacity an
 The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
 
 <div class="img_left">
-<img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">Co-Coaches Esco and Shoe
+<img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">
 </div>
 
 We were on thin ice from the beginning and desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more importantly a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to, with one major exception: The projected second-round Frank Semisa pick was not available when the time came.
