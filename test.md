@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Test
+title: Neighborhood Roadies Post-Mortem
 sidebar_link: false
+author: "Nick Muse"
 ---
 
 The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
