@@ -12,8 +12,6 @@ height:50%;
 margin:0px 0px 0px 0px;
 padding:0px;
 float:left
-font-style:italic;
-font-size:8px;
 }
 .img_right {
 width:50%;
@@ -21,8 +19,6 @@ height:50%;
 margin:0px 0px 0px 0px;
 padding:0px;
 float:right
-font-style:italic;
-font-size:8px;
 }
 </style>
 
