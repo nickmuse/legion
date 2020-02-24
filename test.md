@@ -8,7 +8,6 @@ author: "Nick Muse"
 The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
 
 <img style="float:left;" src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
-<sup>*The Jim Tully at Cucina Family Style Ristorante &bull; 11/10/19*</sup>
 <p>The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.</p>
 
 <img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">
