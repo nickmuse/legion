@@ -4,6 +4,41 @@ title: Test
 sidebar_link: false
 ---
 
-<!-- <p class="message">What is </p> -->
-<p>Legends of Legion is about a Mastic-Shirley family keeping a tradition alive.</p>
-<img src="https://lh3.googleusercontent.com/fpKptA1vC0uOmhsVVx3emBOqWFr97QbkxN2lliGKqslLVJSbVoY95PxJ8h8I7kcIWJ2xIGKw9RS67rVJ7gx-KhlTm4DE8SHRAnAEpfDCSbgXPtz_ruBFOGv2XLSy65HVIDy2WlaBEA=w2400" width="100%">
+The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
+
+(image of the jim tully trophy)
+
+The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
+
+(image of me and esco matching suits)
+
+We needed to be on our best behavior. After the league voted against Esco and I donning the illest matching suits at the draft (for fear of their own suit-game looking gout in comparison), I knew that we was on thin ice in Forge River. We ignored the shit out of that vote by the way, and drafted pretty much as we had planned to, with one major exception. We were denied the projected second-round Frank pick.
+
+(image of frank getting mad at holmes)
+
+After the all the draft party dust was settled, it was only natural that we really start to get our priorities in order. I finished up the sickest slice of cheesecake, squared up my bill with Mr. Nino, and proceeded to enter the think tank. What exactly did I want to prove this year? What small victory could we still walk away with if not the Championchip itself? I re-emerged with my mission statements organized into these key points:
+
+- You don't just pass up a guy like Gman in the first round
+- You don't just pass up a guy like Maca in the second round
+- You don't just pass up a guy like Dingo in the third round
+- You don't just stack Esco and I on a team, take away a fifth round pick, and call it a deal.
+
+(image of roadies at draft)
+
+We set out to increase the draft stock of each individual brave enough to call themself a Roadie. Not because we wanted to make drafting more challenging for ourselves in the future, but because the league was long overdue for a re-evaluation of who eats in the big dogs pen, and who snacks on Oreo O's at the kid's table.
+
+I'm not going to lie to you. Losing Ian at sea was devastating. After all, he was our first round draft pick, and now he was likely marooned on some uncharted island, barefoot. We suffered in silence. We practiced. We got some Hero Haven. And we repeated this process.
+
+Enter JJ. With a new name in the family, we had to make an amendment to our key points. What we came up with was this:
+- You don't just let JJ play football.
+
+(image of JJ catch)
+
+Fast forward. The Mothmanian Devils truly deserve the trophy, but we all know that Holmes is gonna sell that thing on Craigslist for twice as much as he bought it for. And that's the type of franchise management that catches up to you eventually. At the end of the day, we shook some ground. I hope that doing it without big name picks or a five-time champion QB has at least established the Roadies as a household brand you can trust, and more importantly evolved the level of respect that the true dogs on our roster deserve.
+
+(image of group roadies photo at game)
+
+I wasn't sure how to close this off. We come from a place where people take their Boa Constrictors for a walk, drive lawn mowers when their car isn't starting, and somehow, somebody gets shot with a bow and arrow annually. It gets dark around here. However, time again, both the Draft Party and the Game Day re-establish themselves as two of the best Holidays in my year. Not a lot of people can say that they still bug out with their friends like this 15 years after high school. And to those that have distanced themselves from the hype for their own individual reasons, I truly hope you eventually remember why this LOL is so good, because it might not survive too long without ya'll, and some of us kinda need it.
+
+Pz,
+Shoe
