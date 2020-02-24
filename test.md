@@ -34,7 +34,7 @@ margin:0px 0px 0px 0px;
 </style>
 
 <div class="photo"><img src="https://lh3.googleusercontent.com/UvDWaZjYuq91A0M7817q9IuuMryYnfeiwf8eTent1xPPJVrSV9h9t11PpxAHXc3OFE4zuY1l3A4A4bcxjY6HwTREzWr8a4FDOxx7KReWlBP-TFpBteYUkQN7-owShkpXjyM2klbu_w=w2400">
-<p>Famous Painting of the Jim Tully Award</p>
+<p>Famous Painting of the Jim Tully Award &bull; 1672</p>
 </div>
 
 The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
