@@ -18,6 +18,10 @@ height:30%;
 margin:0px 0px 0px 5px;
 float:right
 }
+.img_sub {
+font-style:italic;
+font-size:8px;
+}
 </style>
 
 The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
@@ -29,7 +33,7 @@ The elephant in the room was making peace with the Jimmy as a stretch goal. Real
 
 <div class="img_left">
 <img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">
-<sup>*Co-Coaches Esco and Shoe, Draft Party &bull; 11/10/19*</sup>
+<p class="img_sub">Co-Coaches Esco and Shoe, Draft Party &bull; 11/10/19<p>
 </div>
 
 We were on thin ice from the beginning and desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more importantly a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to, with one major exception: The projected second-round Frank Semisa pick was not available when the time came.
