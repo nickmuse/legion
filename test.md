@@ -11,12 +11,14 @@ width:60%;
 height:60%;
 margin:10px 10px;
 float:left
+border:0;
 }
 .img_right {
 width:60%;
 height:60%;
 margin:10px 10px;
 float:right
+border:0;
 }
 </style>
 
@@ -27,7 +29,7 @@ The Jim Tully is so much more than a trophy. It represents layers of tenacity an
 <img src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
 </td></tr>
 <tr><td>
-<sup>*The Jim Tully at Cucina Family Style Ristorante &bull; 11/10/19*</sup>
+*The Jim Tully at Cucina Family Style Ristorante &bull; 11/10/19*
 </td></tr>
 </table>
 
