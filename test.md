@@ -11,14 +11,12 @@ width:60%;
 height:60%;
 margin:10px 10px;
 float:left
-border:0;
 }
 .img_right {
 width:60%;
 height:60%;
 margin:10px 10px;
 float:right
-border:0;
 }
 </style>
 
