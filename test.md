@@ -14,8 +14,7 @@ author: "Nick M"
 }
 
 .nested {
-width:50%;
-padding:0px;
+  padding:0px;
 }
 .nested img {
   margin:0px 0px 0px 0px;
@@ -27,10 +26,12 @@ margin:0px 0px 0px 0px;
 }
 
 .nested_left {
+  width:50%;
   margin:0px 10px 0px 0px;
   float:left
 }
 .nested_right {
+  width:50%;
   margin:0px 0px 0px 10px;
   float:right
 }
@@ -48,8 +49,10 @@ The elephant in the room was making peace with the Jimmy as a stretch goal. Real
 
 We were on thin ice from the beginning and desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more importantly a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to, with one major exception: The projected second-round Frank Semisa pick was not available when the time came.
 
+<div class="nested">
 <img src="https://lh3.googleusercontent.com/pljwyujs0Sor_ALbnPCdRQfvrdX8dHpF38sx9SdF0YspJtEzI4K6fIYqVtugWMXRGyLAU2qz-M9cexU4CkOpl-mqxxXW8xnQ9LZyNjM95E6BN29MwkRRNen4snU0L1wAiud3kkOSwA=w2400">
-<p class="img_sub">Coach Holmes selecting an unamused Frank in the 2nd Round &bull; 11/10/19</p>
+<p>Coach Holmes selecting an unamused Frank in the 2nd Round &bull; 11/10/19</p>
+</div>
 
 After the all the draft party dust was settled, it was only natural that we really start to get our priorities in order. I finished up the sickest slice of cheesecake, squared up my bill with Mr. Nino, and proceeded to enter the think tank. What exactly did I want to prove this year? What small victory could we still walk away with if not the Championchip itself? I re-emerged with my mission statements organized into these key points:
 
