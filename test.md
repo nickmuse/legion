@@ -33,8 +33,8 @@ margin:0px 0px 0px 0px;
 
 </style>
 
-<div class="photo"><img src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
-<p>The Jim Tully, Cucina Family Style Ristorante &bull; 11/10/19</p>
+<div class="photo"><img src="https://lh3.googleusercontent.com/UvDWaZjYuq91A0M7817q9IuuMryYnfeiwf8eTent1xPPJVrSV9h9t11PpxAHXc3OFE4zuY1l3A4A4bcxjY6HwTREzWr8a4FDOxx7KReWlBP-TFpBteYUkQN7-owShkpXjyM2klbu_w=w2400">
+<p>Famous Painting of the Jim Tully Award</p>
 </div>
 
 The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
