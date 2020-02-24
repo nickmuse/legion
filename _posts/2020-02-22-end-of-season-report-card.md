@@ -86,7 +86,7 @@ Going into THIS season, Coach Holmes refused to quit on the guys he felt worked 
 
 <img src="https://lh3.googleusercontent.com/9PzlmBGkCddcEcoPUXzQ6yNHuitdjFHdzkMYvumzhX_m1ygXGKw0aLvqeP8cIVjhEMI8DAwWKPKhAjIcaPevCbQjstfX_KphODgGLQwoAP-vjnE6qGpRaGNJyxhIZcmVsjslqSH09Q=w2400">
 
-This team put in the work at every single scrimmage. Franks historic “Audible Offense” is complex. The terminology can be difficult to comprehend, and much more difficult to master. This team studied and showed week after week that it was ready for game day.
+This team put in the work at every single scrimmage. Frank's historic “Audible Offense” is complex. The terminology can be difficult to comprehend, and much more difficult to master. This team studied and showed week after week that it was ready for game day.
 
 A 5-0 victory over reigning champions, MVP Renzo and the Poospatuck Smokes, looked easy to this team. Ken silver had 5 catches and 2 scores. Frank Semisa was unstoppable. This offense scored every time they touched the ball. Including a beautiful goal line TD grab by Josh Paini.
 
