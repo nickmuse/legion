@@ -22,16 +22,16 @@ float:right
 }
 </style>
 
-The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
-
 <img src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
 <p class="img_sub">The Jim Tully, Cucina Family Style Ristorante &bull; 11/10/19</p>
 
-The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
+The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
 
 <div class="img_left">
 <img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">
 </div>
+
+The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
 
 We were on thin ice from the beginning and desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more importantly a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to, with one major exception: The projected second-round Frank Semisa pick was not available when the time came.
 
