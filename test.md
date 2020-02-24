@@ -7,14 +7,14 @@ author: "Nick Muse"
 
 <style>
 .img_left {
-width:30%;
-height:30%;
+width:40%;
+height:40%;
 margin:0px 5px 0px 0px;
 float:left
 }
 .img_right {
-width:30%;
-height:30%;
+width:40%;
+height:40%;
 margin:0px 0px 0px 5px;
 float:right
 }
