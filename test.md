@@ -35,6 +35,12 @@ margin:0px 0px 0px 0px;
   margin:0px 0px 0px 10px;
   float:right
 }
+.nested_left p {
+  margin:0px 10px 0px 0px;
+}
+.nested_right p {
+  margin:0px 10px 0px 0px;
+}
 
 </style>
 
