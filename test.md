@@ -9,13 +9,13 @@ author: "Nick Muse"
 .img_left {
 width:60%;
 height:60%;
-margin:20px 30px;
+margin:10px 10px;
 float:left
 }
 .img_right {
 width:60%;
 height:60%;
-margin:20px 30px;
+margin:10px 10px;
 float:right
 }
 </style>
