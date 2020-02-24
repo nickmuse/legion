@@ -8,14 +8,14 @@ author: "Nick Muse"
 <style>
 .img_left {
 width:60%;
-height:60%;
-margin:10px 10px;
+height:40%;
+margin:0px 5px 0px 0px;
 float:left
 }
 .img_right {
 width:60%;
-height:60%;
-margin:10px 10px;
+height:40%;
+margin:0px 0px 0px 5px;
 float:right
 }
 </style>
@@ -24,13 +24,13 @@ The Jim Tully is so much more than a trophy. It represents layers of tenacity an
 
 <div class="img_left">
 <img src="https://lh3.googleusercontent.com/uuZrFadIiO1p0F4TQez3xoJINIrAlMcbKzNAk4Tt5JcyudUHgNiH2ISdX5S7_OmrS4ej0s6eH2ycUgil2l10ILSGkiWYgf4HFUV7-jTiALUAW-6tnp3255dYxlRsFI5k95q-T9foCQ=w2400">
-*The Jim Tully at Cucina Family Style Ristorante &bull; 11/10/19*
+  <sup>*The Jim Tully, Cucina Family Style Ristorante &bull; 11/10/19*</sup>
 </div>
 
 The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, you're still gonna have to pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
 
 <img src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400">
-<sup>*Co-Coaches Esco and Shoe at Draft Party &bull; 11/10/19*</sup>
+<sup>*Co-Coaches Esco and Shoe, Draft Party &bull; 11/10/19*</sup>
 
 We were on thin ice from the beginning and desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more importantly a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to, with one major exception: The projected second-round Frank Semisa pick was not available when the time came.
 
