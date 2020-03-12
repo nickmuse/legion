@@ -2,7 +2,7 @@
 layout: post
 title: The year I Coached a Team
 sidebar_link: false
-author: "Nick M"
+author: "Nick Muse"
 ---
 
 <style>
@@ -37,7 +37,7 @@ margin:0px 0px 0px 0px;
 <p>Famous Painting of the Jim Tully Award &bull; 1672</p>
 </div>
 
-The Jim Tully is so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
+The Jim Tully stands in for so much more than a trophy. It represents layers of tenacity and perseverance demanded of those that exist in the sprawl of William Floyd's golden empire. It represents doing 90mph down the left lane of Mastic Road in a minivan, simultaneously flipping off school busses. And look... when you boil it all down, it represents things which the Roadies really might not have been ready for.
 
 <div class="photo nested_left">
 <img style="display:block;margin:0px 0px 0px 0px" src="https://lh3.googleusercontent.com/iIUeAaM0xPzbyFLjbmvCThwFHcB0qFuqyJhpZfXOVd-utSuHWxRPpAoROKSD7vZ5pLuqCA0GxCEy6Uvm4YuPusU-MZHE0CQm9FamJohC4q4BgPKOZfZ2VoIG2m4KL0RRQZpFZZFgzQ=w2400" />
@@ -77,13 +77,14 @@ Enter JJ. With a new name in the family, we had to make an amendment to our key 
 <p class="nested">JJ Catch on Game Day &bull; 02/01/20</p>
 </div>
 
-Fast forward. The Mothmanian Devils truly deserve the trophy, but we all know that Holmes is gonna sell that thing on Craigslist for twice as much as he bought it for. And that's the type of franchise management that catches up to you eventually. At the end of the day, we shook some ground. I hope that doing it without big name picks or a five-time champion QB has at least established the Roadies as a household brand you can trust, and more importantly evolved the level of respect that the true dogs on our roster deserve.
+Fast forward. A couple of drives and just a stop too short. The Moth Devils truly deserve the trophy, but we all know that Holmes is gonna sell that thing on Craigslist for twice as much as he bought it for, and that's the type of franchise management that catches up with you eventually. At the end of the day, we shook some ground. I hope that doing it without big name picks or a five-time champion QB has at least established the Roadies as a household brand you can trust, and more importantly evolved the level of respect that the true dogs on our roster deserve.
 
 <div class="photo">
 <img src="https://lh3.googleusercontent.com/fYyzyw-9dNZp3MarbGCGzqwKU1Cx0MnK0FdKfKIWrZNO3m2X32T7qYHQLJRG9epT1tdO6-9XOB5j8QG91X97kAAobQzA-6Nh6VIWl9VcCmv5NM84JNL844v0tpEX13xYRz-0--_ivA=w2400">
 <p class="nested">Roadies on Game Day &bull; 02/01/20</p>
 </div>
 
-I wasn't sure how to close this off. We hail from an area where people take their Boa Constrictors for walks, drive lawn mowers when their cars won't start, and somehow somebody gets shot with a bow and arrow annually. It gets dark around here. However, time again, the Draft Party and Game Day re-establish themselves as two of the best Holidays in my year. Not a lot of people can say that 15 years after high school, they still bug out with their friends like this. To those that have rationalized ways to distance themselves from these celebrations of friendship, I hope for a short path to reacquainting yourslef with why Legends of Legion is so great. Because it might not survive too long without ya'll, and some of us kinda need this.
+I wasn't sure how to close this off. We hail from a land where people take their Boa Constrictors for walks, drive lawn mowers when their cars won't start, and somehow somebody gets shot with a bow and arrow annually. It gets dark around here. However, time again, the Draft Party and Game Day re-establish themselves as two of the best Holidays in my year. Not a lot of people can say that 15 years after high school, they still bug out with their selected family to a degree like this. To those that have collected reasons along the way to distance themselves from the anticpation and speculation, the quipping and the hype, one another, and above all the celebration of friendship: I hope for you the shortest path back to remembering why Legends of Legion can be timeless, because it might not survive too long without ya'll, and some of us kinda need this.
 
+Love,
 Shoe
