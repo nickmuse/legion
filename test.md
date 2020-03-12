@@ -46,6 +46,7 @@ The Jim Tully stands in for so much more than a trophy. It represents layers of 
 
 The elephant in the room was making peace with the Jimmy as a stretch goal. Realistically, this franchise may still have to walk the lengths of the Neighborhood Road to get there. That said, if your goal is to get to the Sandbar, first you gotta pass Oakwood Deli. And if you're not coppin an egg sandwich while you're there, then I don't trust you.
 
+
 I don't have a deep background in football. I grew up watching a notoriously bad hockey team, and that seems to bother people. We were under skin and on thin ice from the beginning, so we desperately needed to pick our battles. The league voted against Esco and I donning the ill matching suits at the Draft Party. I suspect this was out of fear of their own suit-game looking gout in comparison, but more symbolically, a show of force. We ignored the shit out of that motion, and drafted pretty much as we had planned to. With one major exception: The projected second-round Frank Semisa pick was not available when the time came.
 
 <div class="photo">
@@ -66,6 +67,7 @@ As the Draft Party dust settled, it was only natural that we really start to get
 </div>
 
 We set out to increase the draft stock of each individual brave enough to call themself a Roadie. Not because we wanted to make drafting more challenging for ourselves in the future, but because the league was long overdue for a re-evaluation of who eats in the big dogs pen, and who snacks on Oreo O's at the kid's table.
+
 
 I'm not going to lie to you. Losing Ian at sea was devastating. After all, he was our first round draft pick, and now he was likely marooned on some uncharted island, barefoot. We suffered in silence. We practiced. We got some Hero Haven. And we repeated this process.
 
