@@ -12,7 +12,7 @@ tags:
 
 <img src="https://lh3.googleusercontent.com/gdav0604M-6OX1GtaOED-GfsM_Jalcid5CncYHk2LomLyKUUx_KZKfqwHGV3Tdl1k9-mwJHCQRx9gODDSNblZn7rp3uykvMQU_UYS4ey6JO1ydraMlub-XVzogmbZy7phqXy1Mw1eA=w2400">
 
-Official Legends of Legion fan gear is available in the "<a href="https://shop.spreadshirt.com/legends-of-legion/">Shop</a> section so that you can now show off your favorite Mastic-Shirley action heroes in style.
+Official Legends of Legion fan gear is available in the <a href="https://shop.spreadshirt.com/legends-of-legion/">SHOP</a> so that you can now show off your favorite Mastic-Shirley action heroes in style.
 
 Here's a preview of what's on the shirts:
 
