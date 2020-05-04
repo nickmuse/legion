@@ -13,7 +13,7 @@ tags:
 <a href="https://shop.spreadshirt.com/legends-of-legion/">
 <img src="https://lh3.googleusercontent.com/gdav0604M-6OX1GtaOED-GfsM_Jalcid5CncYHk2LomLyKUUx_KZKfqwHGV3Tdl1k9-mwJHCQRx9gODDSNblZn7rp3uykvMQU_UYS4ey6JO1ydraMlub-XVzogmbZy7phqXy1Mw1eA=w2400">
 </a>
-<br><br>
+
 
 Official **Legends of Legion** fan gear is available in the <a href="https://shop.spreadshirt.com/legends-of-legion/">Shop</a>.
 
