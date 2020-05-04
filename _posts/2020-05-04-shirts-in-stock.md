@@ -4,8 +4,10 @@ title: " Shirts in Stock!"
 author: "Nick Muse"
 categories:
   - Merchandise
+  - Articles
 tags:
   - Merchandise
+  - Articles
 ---
 
 <img src="https://lh3.googleusercontent.com/gdav0604M-6OX1GtaOED-GfsM_Jalcid5CncYHk2LomLyKUUx_KZKfqwHGV3Tdl1k9-mwJHCQRx9gODDSNblZn7rp3uykvMQU_UYS4ey6JO1ydraMlub-XVzogmbZy7phqXy1Mw1eA=w2400">
