@@ -21,7 +21,7 @@ Official **Legends of Legion** fan gear is now available in the <a href="https:/
 Show off your favorite Mastic-Shirley action heroes in style.
 
 
-Here's a preview of what's on the shirts:
+Here's a close-up of what's on the shirts:
 
 
 <img src="https://lh3.googleusercontent.com/q1ClFmeegnjwNtRX7KqC5AsV-Dou-oDG8Ss_vmaipPiR7IdXv0v0V6l0GPUb37rIzziDpJ6YW-rle11JRYWRVg1sDhmbFD_mnj0vivbQA-oKBi5N_o5rm2HYv3VRS62fiyC0Z6uGrg=w2400">
