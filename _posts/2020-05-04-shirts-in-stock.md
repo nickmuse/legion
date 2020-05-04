@@ -15,7 +15,7 @@ tags:
 </a>
 
 
-Official **Legends of Legion** fan gear is available in the <a href="https://shop.spreadshirt.com/legends-of-legion/">Shop</a>.
+Official **Legends of Legion** fan gear is now available in the <a href="https://shop.spreadshirt.com/legends-of-legion/">Shop</a>.
 
 
 Show off your favorite Mastic-Shirley action heroes in style.
