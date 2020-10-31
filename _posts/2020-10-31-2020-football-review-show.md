@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Football Review Show - Game 1 2020"
-author: "Nick Muse"
+author: "John Suydam"
 categories:
   - Video
 tags:
