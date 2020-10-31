@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Football Review Show - Game 1 2020"
+title: "Football Review Show"
 author: "John Suydam"
 categories:
   - Video
