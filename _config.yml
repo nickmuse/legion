@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Legends of Legion
-tagline:          'Football League'
-description:      ''
+tagline:          'Charity Football League'
+description:      'Charity Football League'
 url:              https://legendsoflegion.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
