@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Football Review Show"
+title: "Football Review Show Eps 1-3"
 author: "John Suydam"
 categories:
   - Video
@@ -10,4 +10,12 @@ tags:
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/P8rc-J-olYY?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/MK41sMrVj7s?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/duxvxkfJIY0?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
