@@ -25,25 +25,25 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr>
 			<td>?</td>
 			<td>Shirley Estate Mothmmen</td>
-			<td>Holmes & Josh</td>
+			<td>Holmes<br>Josh</td>
 			<td>Renzo<br>Maca<br>Jesus<br>Dingo</td>
 		</tr>
 		<tr>
 			<td>?</td>
 			<td>Neighborhood Roadies</td>
-			<td>Esco & Shoe</td>
+			<td>Esco<br>Shoe</td>
 			<td>JJ<br>GMan<br>Mike C<br>Matt</td>
 		</tr>
 		<tr>
 			<td>?</td>
 			<td>Poospatuck Smokes</td>
-			<td>Dan & Ken</td>
+			<td>Dan<br>Ken</td>
 			<td>Justin<br>Ray<br>HC Johnny<br>JohnNay</td>
 		</tr>
 		<tr>
 			<td>?</td>
 			<td>Biltmore Brawlers</td>
-			<td>Colin & Ian</td>
+			<td>Colin<br>Ian</td>
 			<td>Frank<br>Labo<br>Delmonte<br>Tyler</td>
 		</tr>
 	</tbody>
@@ -66,7 +66,7 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr>
 			<td>2</td>
 			<td>Neighborhood Roadies</td>
-			<td>Esco+Shoe</td>
+			<td>Esco<br>Shoe</td>
 			<td>JJ<br>GMan<br>Maca<br>Dingo</td>
 		</tr>
 		<tr>
