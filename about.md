@@ -12,5 +12,6 @@ sidebar_link: true
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/RkWDfqBqG_0?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Respect the Callout
+### Always Respect the Callout
+
 <img src="https://lh3.googleusercontent.com/fpKptA1vC0uOmhsVVx3emBOqWFr97QbkxN2lliGKqslLVJSbVoY95PxJ8h8I7kcIWJ2xIGKw9RS67rVJ7gx-KhlTm4DE8SHRAnAEpfDCSbgXPtz_ruBFOGv2XLSy65HVIDy2WlaBEA=w2400" width="100%">
