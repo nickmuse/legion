@@ -10,6 +10,8 @@ tags:
   - Articles
 ---
 
+<img src="https://lh3.googleusercontent.com/wrja1H4fsvRe2I736sxquM2kdJjEPqWiYBO1qKzQ7BhSsobOD9SGJDbdIkBVPizmcSB4YC1zE-3WzXaJdUJ-AzzSFVXPpfQ1-6_KwUId9Xhkx0PTeb8kwwlHDW_88jEu91dOI2bbig=w2400">
+
 I’ve waited a few weeks after the draft to give coaches and players an opportunity to gel. 
 
 ### Poospatuck Smokes
