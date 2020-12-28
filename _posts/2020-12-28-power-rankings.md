@@ -25,17 +25,18 @@ Holmes has clearly learned a lot from his time over the past 2 seasons with Fran
 This team has the most talent 1 through 6 in the league. No one can question that. But The most talented roster in the league hasn’t won the big game in nearly 3 seasons. They teams in previous seasons with the most talent have assumed that they were to good to fail and didn’t practice. This team has not fallen into that trap. We have seen every player on this squad including multiple 4 man practices and a full 5 man practice. Ian Tully has been dynamic with the ball in space. Labo has anchored the team’s defense. Delmonte has shown the explosiveness that makes him an elite deep threat. Tyler showed his ability to be a consistent underneath option. Colin showed that he can play every position in Frank’s offense. And Frank himself has been unstoppable at times. It won’t be easy for this team. They need to continue to get solid numbers and put in the work or we could see some regression. But if they follow the current game plan this team will be able to run, pass and defend at a high level.
 
 ### MVP of the Week:
-#### *Ian Tully*
+##### *Ian Tully*
 
 He’s done it as a pass catcher, blocker, coverage corner and defensive lineman. Ian has been all over the field!
 
 ### Biggest question of the week:
-#### *What’s up with the Smokes?*
+##### *What’s up with the Smokes?*
 
 Excuses excuses excuses. That’s all we’ve heard. Either shake up the roster or deal with it. The pity party has to end at some point.
 
 ### Biggest surprise of the week:
-#### *Rookie Play*
+##### *Rookie Play*
 
 Jesus has been a force with the ball in his hands. On run plays he’s averaging over 5 yards per carry.
+
 Matt has been putting in solid work EVERY SINGLE WEEK. I expect big things from this young man moving forward.
