@@ -22,11 +22,11 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr class="champs">>
+		<tr class="champs">
 			<td>1</td>
 			<td>Team Tully</td>
 			<td>Colin<br>Ian</td>
-			<td>Frank<br>Labo<br>Delmonte</td>
+			<td>Frank<br>Labo<br>Delmonte *</td>
 		</tr>
 		<tr>
 			<td>2</td>
