@@ -19,6 +19,7 @@ sidebar_link: true
 	row = '<tr>';
 	row += '<td><a href="/players.html?queries[search]=' + record.name + '&sorts[year]=-1">' + record.name + '</a></td>';
 	row += '<td>' + record.year + '</td>';
+	row += '<td>' + record.gp + '</td>';
         row += '<td>' + record.rec + '</td>';
 	row += '<td>' + record.rectd + '</td>';
         row += '<td>' + record.rtd + '</td>';
@@ -64,6 +65,7 @@ Year:
     <thead>
       <th>Name</th>
       <th>Year</th>
+      <th>GP</th>
       <th>REC</th>
       <th>RECTD</th>
       <th>RTD</th>
