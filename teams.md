@@ -22,30 +22,31 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
-			<td>?</td>
-			<td>Shirley Estate Mothmmen</td>
-			<td>Holmes<br>Josh</td>
-			<td>Renzo<br>Maca<br>Jesus<br>Dingo</td>
+		<tr class="champs">>
+			<td>1</td>
+			<td>Team Tully</td>
+			<td>Colin<br>Ian</td>
+			<td>Frank<br>Labo<br>Delmonte</td>
 		</tr>
 		<tr>
-			<td>?</td>
+			<td>2</td>
+			<td>Shirley Estate Mothmmen</td>
+			<td>Holmes<br>Josh</td>
+			<td>Maca<br>Jesus<br>Peck</td>
+		</tr>
+		<tr>
+			<td></td>
 			<td>Neighborhood Roadies</td>
 			<td>Esco<br>Shoe</td>
 			<td>JJ<br>GMan<br>Mike C<br>Matt</td>
 		</tr>
 		<tr>
-			<td>?</td>
+			<td></td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan<br>Ken</td>
 			<td>Justin<br>Ray<br>HC Johnny<br>JohnNay</td>
 		</tr>
-		<tr>
-			<td>?</td>
-			<td>Biltmore Brawlers</td>
-			<td>Colin<br>Ian</td>
-			<td>Frank<br>Labo<br>Delmonte<br>Tyler</td>
-		</tr>
+
 	</tbody>
 	
 	
