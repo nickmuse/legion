@@ -4,6 +4,8 @@ title: Players
 sidebar_link: true
 ---
 
+<b>"Games Played"</b> stat for previous years before 2019 be corrected on Tuesday 2/15/21
+
 <head>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="jquery.dynatable.css">
