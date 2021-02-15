@@ -55,6 +55,10 @@ sidebar_link: true
 </head>
 
 <div align="right">
+Per Game Average <input type="checkbox" id="avg" name="avg" value="Average Per Game">
+</div>
+
+<div align="right">
 Year: 
 <select id="search-year" name="year">
   <option></option>
@@ -62,10 +66,6 @@ Year:
   <option>2020</option><option>2019</option><option>2018</option><option>2017</option>
   <option>2016</option><option>2015</option><option>2014</option><option>2013</option>
 </select>
-</div>
-
-<div align="right">
-Average Per Game <input type="checkbox" id="avg" name="avg" value="Average Per Game">
 </div>
 
 <table id="stats" class="display responsive nowrap" style="width:80%">
