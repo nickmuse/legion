@@ -35,13 +35,13 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>Maca<br>Jesus<br>Pac</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>3</td>
 			<td>Neighborhood Roadies</td>
 			<td>Esco<br>Shoe</td>
 			<td>JJ<br>GMan<br>Mike C<br>Matt</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>4</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan<br>Ken</td>
 			<td>Justin<br>Ray<br>HC Johnny<br>JohnNay</td>
