@@ -10,6 +10,8 @@ tags:
   - Articles
 ---
 
+<img src="https://lh3.googleusercontent.com/AQDjyB55aNsNdKjt7WIvUwgfvIaRB1ZchPQt-rzhDDFC_LXAf8xlJEXPEXjb5kkZhD-rWgppKYrXvImDhsByCyqwEz7ilPcWzbcDevlLhPBZB-BhKhYizsZj4bsyUccrX1c--hfXCQ=w2400">
+
 # Poospatuck Smokes
 
 ##### Frank's Analysis
@@ -61,8 +63,6 @@ He also caught a TD and he had the first ever defensive score in league history 
 
 ##### Frank's Grade: A+
 <br><br><br>
-
-<img src="https://lh3.googleusercontent.com/AQDjyB55aNsNdKjt7WIvUwgfvIaRB1ZchPQt-rzhDDFC_LXAf8xlJEXPEXjb5kkZhD-rWgppKYrXvImDhsByCyqwEz7ilPcWzbcDevlLhPBZB-BhKhYizsZj4bsyUccrX1c--hfXCQ=w2400">
 
 <img src="https://lh3.googleusercontent.com/-XdSE9seXiitt-1k_S121sThWAgu79tt_8p86Tuz542VWAaUVJS1Q3F5evSzwc8LKz-PAnZYtXRlrK1aTfr-nJMDdWK3lcBHCFwxITow7VcrhVe62BttBTA5t99Qq6cssQX0THwupA=w2400">
 
