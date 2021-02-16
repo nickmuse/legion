@@ -28,6 +28,7 @@ sidebar_link: true
         row += '<td>' + record.ptd + '</td>';
         row += '<td>' + record.int + '</td>';
 	row += '<td>' + record.sac + '</td>';
+	row += '<td>' + record.deftd + '</td>';
         row += '</tr>';
 	return row;
 	}
@@ -79,6 +80,7 @@ Year:
       <th>PTD</th>
       <th>INT</th>
       <th>SAC</th>
+      <th>DEFTD</th>
     </thead>
     <tbody>
     </tbody>
