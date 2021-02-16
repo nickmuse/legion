@@ -4,8 +4,6 @@ title: Players
 sidebar_link: true
 ---
 
-<b>All stats for 2021</b> and <b>Games Played</b> stat for years before 2019 will be updated and corrected on Tuesday night 2/15/21
-
 <head>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="jquery.dynatable.css">
