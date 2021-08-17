@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020 Football Review Show Eps 1-3"
+title: "Football Review Show 2020"
 author: "John Suydam"
 categories:
   - Video
