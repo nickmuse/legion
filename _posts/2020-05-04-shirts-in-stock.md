@@ -4,10 +4,8 @@ title: " Shirts in Stock!"
 author: "Nick Muse"
 categories:
   - Merchandise
-  - Articles
 tags:
   - Merchandise
-  - Articles
 ---
 
 <a href="https://shop.spreadshirt.com/legends-of-legion/">
