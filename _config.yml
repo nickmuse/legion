@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            
+title:            ''
 tagline:          'Charity Football League'
 description:      'Charity Football League'
 url:              https://legendsoflegion.com
