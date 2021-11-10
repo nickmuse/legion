@@ -24,7 +24,7 @@ td {vertical-align:middle;horizontal-align:center;}
 	<tbody>
 		<tr class="champs">
 			<td>1</td>
-			<td>Team Tully</td>
+			<td>Biltmore Drivers</td>
 			<td>Colin<br>Ian</td>
 			<td>Frank<br>Labo<br>Delmonte *</td>
 		</tr>
