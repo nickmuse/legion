@@ -30,7 +30,7 @@ td {vertical-align:middle;horizontal-align:center;}
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>Shirley Estate Mothmmen</td>
+			<td>Shirley Estate Mothmen</td>
 			<td>Holmes<br>Josh</td>
 			<td>Maca<br>Jesus<br>Pac</td>
 		</tr>
