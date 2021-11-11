@@ -1,5 +1,5 @@
 [
-{"name": "Colin",		"gp":3.5,	"rec":25,	"rectd":4,		"rtd":0,	"avgrec":7.14,	"avgrectd":1.14,	"avgrtd":0},
+{"name": "Colin",		"gp":3,	"rec":25,	"rectd":4,		"rtd":0,	"avgrec":7.14,	"avgrectd":1.14,	"avgrtd":0},
 {"name": "Delmonte",	"gp":5,		"rec":19,	"rectd":4,		"rtd":3,	"avgrec":3.8,	"avgrectd":0.8,		"avgrtd":0.6},
 {"name": "Holmes",		"gp":5,		"rec":4,	"rectd":0,		"rtd":2,	"avgrec":0.8,	"avgrectd":0,		"avgrtd":0.4},
 {"name": "Ian",			"gp":3,		"rec":12,	"rectd":3,		"rtd":0,	"avgrec":4,		"avgrectd":1,		"avgrtd":0},
@@ -14,5 +14,5 @@
 {"name": "Ray",			"gp":4,		"rec":16,	"rectd":1,		"rtd":0,	"avgrec":4,		"avgrectd":0.25,	"avgrtd":0},
 {"name": "Shoe",		"gp":5,		"rec":25,	"rectd":6,		"rtd":0,	"avgrec":5,		"avgrectd":1.2,		"avgrtd":0},
 {"name": "Dingo",		"gp":2,		"rec":4,	"rectd":0,		"rtd":0,	"avgrec":2,		"avgrectd":0,		"avgrtd":0},
-{"name": "Justin",		"gp":3.5,	"rec":18,	"rectd":6,		"rtd":0,	"avgrec":5.142,	"avgrectd":1.714,	"avgrtd":0}
+{"name": "Justin",		"gp":3.5,	"rec":18,	"rectd":6,		"rtd":0,	"avgrec":6,	"avgrectd":2,	"avgrtd":0}
 ]
