@@ -19,13 +19,13 @@ sidebar_link: false
 	row = '<tr>';
 	row += '<td>' + record.name + '</td>';
 	row += '<td>' + record.gp + '</td>';
-    row += '<td>' + record.rec + '</td>';
+        row += '<td>' + record.rec + '</td>';
 	row += '<td>' + record.rectd + '</td>';
-    row += '<td>' + record.rtd + '</td>';
-    row += '<td>' + record.avgrec + '</td>';
+        row += '<td>' + record.rtd + '</td>';
+        row += '<td>' + record.avgrec + '</td>';
 	row += '<td>' + record.avgrectd + '</td>';
-    row += '<td>' + record.avgrtd + '</td>';
-    row += '</tr>';
+        row += '<td>' + record.avgrtd + '</td>';
+        row += '</tr>';
 	return row;
 	}
   
@@ -39,9 +39,6 @@ sidebar_link: false
 	writers: {
 		_rowWriter: custom_writer
 	},
-        inputs: {
-          queries: $('#search-year')
-        },
         dataset: {
           records: {{site.data.advanced | jsonify}}
         }
