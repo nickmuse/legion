@@ -29,10 +29,10 @@ sidebar_link: false
 	return row;
 	}
   
-      $('#advancedstats').dynatable({
+      $('#advanced').dynatable({
         features:{
           paginate: false,
-          search: true,
+          search: false,
           recordCount: false,
           perPageSelect: false
         },
@@ -43,7 +43,7 @@ sidebar_link: false
           queries: $('#search-year')
         },
         dataset: {
-          records: {{site.data.advancedstats | jsonify}}
+          records: {{site.data.advanced | jsonify}}
         }
       });
       
@@ -51,7 +51,7 @@ sidebar_link: false
   
 </head>
 
-<table id="advancedstats" class="display responsive nowrap" style="width:80%">
+<table id="advanced" class="display responsive nowrap" style="width:80%">
     <thead>
       <th>Name</th>
       <th>GP</th>
