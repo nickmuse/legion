@@ -51,9 +51,9 @@ sidebar_link: false
 Statistics have no feelings. Is there something more going on under the hood of LOL? Let's analyze.
 
 ### Defining the Scope
-- Sometimes the mighty fall. Sometimes players improve. For that reason, this data only includes gamedays over last 3 years.
+- Sometimes the mighty fall. Sometimes players improve. For that reason, this data only includes last 3 years of Game Days.
 - This was calculated to serve some utility going into this season. For that reason, this data only includes receivers that are active for 21-22.
-- If a player had a PTD on record one year, it's safe to assume they spent some of that 'Game Played' at quarterback. To compensate for this, I subtracted half of a 'Game Played' to bolster their average. For players that I know played a full game at QB, the whole 'Game Played' has been removed from the data to bolster their average.
+- Games Played prodominantly as QB has been struck from the player's record here. GP is modified here to include only Games Played prodominantly as a receiver.
 
 ### The Data
 (click the AVGs to sort by them)
@@ -74,7 +74,7 @@ Statistics have no feelings. Is there something more going on under the hood of 
 </table>
 
 ### Shoe's Takeaways
-- JJ is a serious contender for the GOAT. While the Neighborhood Roadies' system is a system that both over-utilizes its star player and generates numbers through higher quantities of short plays, it stands to reason that JJ would likely thrive equally in a system with less sporatic execution.
-- Second round talent needs to be redefined if teams want to stay relevant.
-- It needs to be said that Delmonte's value as running back will win games.
-- We'll never truly be able to 'rank' receivers. The obvious grain of salt to consider here is who was quarterbacking for recievers during their peak/worst performances. QBs can also over/under utilize receivers. These chemistries are certainly something to consider when building a team. This is where your sense should be factored in. There are players at all tiers of this chart that would be positioned higher if they were simply more heavily utilized. Players like Dingo, Maca and Esco are players who I personally put in that category.
+- JJ is a serious contender for the GOAT. While the Neighborhood Roadies' system is a system that both over-utilizes its star players, and generates numbers through higher quantities of short plays; it stands to reason that JJ would likely thrive equally in a system with less sporatic execution.
+- In the coming years, second round talent needs to be redefined if teams want to stay relevant. With the data becoming easier to parse, 
+- It needs to be said that Delmonte's value as Running Back will win games.
+- We'll never truly be able to 'rank' receivers. The obvious grain of salt to consider here is who was quarterbacking for recievers during their peak/worst performances. QBs can also over/under utilize receivers. These chemistries are certainly something to consider when building a team. This is where your sense should be factored in. There are players at all tiers of this chart that would be positioned higher if they were more tactfully utilized. In the right system, players like Dingo and Esco could elevate to third round talent. In the same light, players like Maca retain their position as second rounders because coaches know these stats don't represent his game day potential.
