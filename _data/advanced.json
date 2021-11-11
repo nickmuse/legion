@@ -1,0 +1,18 @@
+[
+{"name": "Colin",		"gp":3.5,	"rec":25,	"rectd":4,		"rtd":0,	"recavg":7.14,	"rectdavg":1.14,	"rtdavg":0},
+{"name": "Delmonte",	"gp":5,		"rec":19,	"rectd":4,		"rtd":3,	"recavg":3.8,	"rectdavg":0.8,		"rtdavg":0.6},
+{"name": "Holmes",		"gp":5,		"rec":4,	"rectd":0,		"rtd":2,	"recavg":0.8,	"rectdavg":0,		"rtdavg":0.4},
+{"name": "Ian",			"gp":3,		"rec":12,	"rectd":3,		"rtd":0,	"recavg":4,		"rectdavg":1,		"rtdavg":0},
+{"name": "Jesus",		"gp":2,		"rec":8,	"rectd":0,		"rtd":0,	"recavg":4,		"rectdavg":0,		"rtdavg":0},
+{"name": "Josh",		"gp":6,		"rec":17,	"rectd":2,		"rtd":0,	"recavg":2.83,	"rectdavg":0.33,	"rtdavg":0},
+{"name": "Labo",		"gp":3.5,	"rec":14,	"rectd":0,		"rtd":0,	"recavg":4,		"rectdavg":0,		"rtdavg":0},
+{"name": "Esco",		"gp":3,		"rec":7,	"rectd":3,		"rtd":0,	"recavg":2.333,	"rectdavg":1,		"rtdavg":0},
+{"name": "HC Johnny",	"gp":4,		"rec":14,	"rectd":2,		"rtd":0,	"recavg":3.5,	"rectdavg":0.5,		"rtdavg":0},
+{"name": "JJ",			"gp":3,		"rec":24,	"rectd":6,		"rtd":0,	"recavg":8,		"rectdavg":2,		"rtdavg":0},
+{"name": "Ken",			"gp":3,		"rec":14,	"rectd":5,		"rtd":0,	"recavg":4.67,	"rectdavg":1.67,	"rtdavg":0},
+{"name": "Maca",		"gp":5,		"rec":21,	"rectd":6,		"rtd":0,	"recavg":4.2,	"rectdavg":1.2,		"rtdavg":0},
+{"name": "Ray",			"gp":4,		"rec":16,	"rectd":1,		"rtd":0,	"recavg":4,		"rectdavg":0.25,	"rtdavg":0},
+{"name": "Shoe",		"gp":5,		"rec":25,	"rectd":6,		"rtd":0,	"recavg":5,		"rectdavg":1.2,		"rtdavg":0},
+{"name": "Dingo",		"gp":2,		"rec":4,	"rectd":0,		"rtd":0,	"recavg":2,		"rectdavg":0,		"rtdavg":0},
+{"name": "Justin",		"gp":3.5,	"rec":18,	"rectd":6,		"rtd":0,	"recavg":5.142,	"rectdavg":1.714,	"rtdavg":0}
+]
