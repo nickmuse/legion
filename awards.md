@@ -11,67 +11,68 @@ style>
 td {vertical-align:middle;horizontal-align:center;}
 </style>
 
-\* - MVP
 
 <table width="80%">
 	<thead class="head">2>
 		<th></th>
-    <th>Jim Tully</th>
+    		<th>Jim Tully</th>
 		<th>MVP</th>
 		<th>Hall of Fame Induction</th>
 	</thead>
 	<tbody>
 		<tr>
 			<td class="year">2020-2021</td>
-      <td>Biltmore Drivers</td>
+     			 <td>Biltmore Drivers</td>
 			<td>Delmonte</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td class="year">2019-2020</td>
-      <td>Shirley Estate Mothmen</td>
+    			<td>Shirley Estate Mothmen</td>
 			<td>Frank</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td class="year">2018-2019</td>
-      <td>Poospatuck Smokes</td>
+      			<td>Poospatuck Smokes</td>
 			<td>Renzo</td>
 			<td></td>
 		</tr>
-    <tr>
+   		 <tr>
 			<td class="year">2017-2018</td>
-      <td>Team Frank</td>
+     			 <td>Team Frank</td>
 			<td>Justin</td>
 			<td></td>
 		</tr>
-    <tr>
+   		<tr>
 			<td class="year">2016-2017</td>
-      <td>Team Frank</td>
+ 			<td>Team Frank</td>
 			<td>Frank</td>
 			<td></td>
 		</tr>
-    <tr>
+   		<tr>
 			<td class="year">2015-2016</td>
-      <td>Team Frank</td>
+      			<td>Team Frank</td>
 			<td>Ian</td>
 			<td></td>
 		</tr>
-    <tr>
+    		<tr>
 			<td class="year">2014-2015</td>
-      <td>Team Frank</td>
+     			<td>Team Frank</td>
 			<td>Frank</td>
 			<td></td>
 		</tr>
-    <tr>
+ 		<tr>
 			<td class="year">2013-2014</td>
-      <td>Team Dan</td>
+			<td>Team Dan</td>
 			<td>Colin</td>
 			<td></td>
 		</tr>
-    <tr>
+		<tr>
 			<td class="year">2012-2013</td>
-      <td>Team Frank</td>
+     			<td>Team Frank</td>
 			<td>Justin</td>
 			<td></td>
 		</tr>
+	</tbody>
+</table>
