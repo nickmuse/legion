@@ -4,7 +4,7 @@ title: Awards
 sidebar_link: true
 ---
 
-style>
+<style>
 .head {text-align:center;background-color:#013369;color:#FFFFFF;}
 .year {color:#D50A0A;font-weight:bold;}
 .logo {width:40px;height:40px;vertical-align:middle;}
@@ -13,7 +13,7 @@ td {vertical-align:middle;horizontal-align:center;}
 
 
 <table width="80%">
-	<thead class="head">2>
+	<thead class="head">
 		<th></th>
     		<th>Jim Tully</th>
 		<th>MVP</th>
