@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: Awards / Hall of Fame
 sidebar_link: true
 ---
 
