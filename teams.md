@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teams/Results
+title: Teams & Results
 sidebar_link: true
 ---
 
