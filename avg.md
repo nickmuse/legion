@@ -1,7 +1,11 @@
 ---
-layout: page
-title: Reciever Averages
-sidebar_link: false
+layout: post
+title: "Receiver Averages"
+author: "Nick Muse"
+categories:
+  - Articles
+tags:
+  - Articles
 ---
 
 <head>
@@ -48,14 +52,12 @@ sidebar_link: false
   
 </head>
 
-Statistics have no feelings. Is there something more going on under the hood of LOL? Let's analyze.
-
-### Defining the Scope
+### Scope
 - Last 3 years of Game Days.
 - Receivers that are active for 21-22.
 - GP is modified here to include only Games Played prodominantly as a receiver.
 
-### The Data
+### Data
 (click the AVGs to sort by them)
 
 <table id="advanced" class="display responsive nowrap" style="width:80%">
