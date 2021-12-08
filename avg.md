@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shoe's Calculations
+title: Reciever Averages
 sidebar_link: false
 ---
 
