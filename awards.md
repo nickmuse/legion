@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards / Hall of Fame
-sidebar_link: true
+title: Awards
+sidebar_link: false
 ---
 
 <style>
@@ -20,6 +20,12 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Hall of Fame Induction</th>
 	</thead>
 	<tbody>
+		<tr>
+			<td class="year">2021-2022</td>
+     			<td>?</td>
+			<td>?</td>
+			<td></td>
+		</tr>
 		<tr>
 			<td class="year">2020-2021</td>
      			 <td>Biltmore Drivers</td>
