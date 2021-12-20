@@ -18,22 +18,22 @@ th:nth-child(odd) {background-color: #fafafa;}
 <table width="80%">
 	<thead class="head">
 		<th></th>
-		<th>Championship<br><i>Jim Tully</i></th>
-		<th>MVP<br><i>Jim O'Shea</i></th>
+		<th><i>Jim Tully</i><br><br>Championship</th>
+		<th><i>Jim O'Shea</i><br><br>MVP</th>
 		<th>Hall of Fame<br>Induction</th>
-		<th>Man of the Year<br><i>Frankie Sr.</i></th>
-		<th>Quarterback<br><i>William Hennessy</i></th>
-		<th>Runningback<br><i>Lino Paini</i></th>
-		<th>Wide Receiver<br><i>Corey Stark</i></th>
-		<th>Center<br><i>Stephen Long</i></th>
-		<th>Defensive<br><i>George Kyriacou</i></th>
-		<th>Offensive<br><i>Nick Flores</i></th>
-		<th>Breakout<br><i>Patricia Vega</i></th>
-		<th>Coach<br><i>Maria Suydam</i></th>
-		<th>Defensive Line<br><i>Sharon Tanzi</i></th>
-		<th>Defensive Back<br><i>Jimmy Maca</i></th>
-		<th>Special Teams<br><i>Roberto Arancibia Sr.</i></th>
-		<th>Play of the Day<br><i>Yakov Fuzailou</i></th>
+		<th><i>Frankie Sr.</i><br><br>Man of the Year</th>
+		<th><i>William Hennessy</i><br><br>Quarterback</th>
+		<th><i>Lino Paini</i><br><br>Runningback</th>
+		<th><i>Corey Stark</i><br><br>Wide Receiver</th>
+		<th><i>Stephen Long</i><br><br>Center</th>
+		<th><i>George Kyriacou</i><br><br>Defensive</th>
+		<th><i>Nick Flores</i><br><br>Offensive</th>
+		<th><i>Patricia Vega</i><br><br>Breakout</th>
+		<th><i>Maria Suydam</i><br><br>Coach</th>
+		<th><i>Sharon Tanzi</i><br><br>Defensive Line</th>
+		<th><i>Jimmy Maca</i><br><br>Defensive Back</th>
+		<th><i>Roberto Arancibia Sr.</i><br><br>Special Teams</th>
+		<th><i>Yakov Fuzailou</i><br><br>Play of the Day</th>
 	</thead>
 	<tbody>
 		<tr>
@@ -68,7 +68,7 @@ th:nth-child(odd) {background-color: #fafafa;}
 			<td>Holmes</td>
 			<td>JJ</td>
 			<td>Josh</td>
-			<td>Shoe/Esco</td>
+			<td>Shoe<br>Esco</td>
 		</tr>
 		<tr>
 			<td class="year">2019-2020</td>
