@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Frank's Power Rankings"
+author: "Frank Semisa"
+categories:
+  - Power Rankings
+  - Articles
+tags:
+  - Power Rankings
+  - Articles
+---
+
 ### Drivers
 
 I ranked this team in the #1 spot directly after draft night knowing they would eventually slide. It’s not talent. This is the fastest team in the league. They have talent at every position. The slide we all saw coming is based on attendance. We knew we wouldn’t see much of this team. We didn’t see much of this team last year so it’s not the end of the world for them. But because we have not seen them I simply can’t put them in front of any other teams. Still some unanswered questions with this roster as well. It would be nice to see them together before game day or at least some of them. 
