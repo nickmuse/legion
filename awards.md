@@ -5,20 +5,21 @@ sidebar_link: false
 ---
 
 <style>
-.head {text-align:center;background-color:#013369;color:#FFFFFF;}
-.year {color:#D50A0A;font-weight:bold;}
+.head {text-align:center;background-color:#151515;color:#FFFFFF;}
+.year {color:#000000;font-weight:bold;}
 .logo {width:40px;height:40px;vertical-align:middle;}
 td {vertical-align:middle;horizontal-align:center;}
+i {font-weight:regular;}
 </style>
 
 
 <table width="80%">
 	<thead class="head">
 		<th></th>
-		<th>Championchip<br><i>Jim Tully</i></th>
+		<th>Championship<br><i>Jim Tully</i></th>
 		<th>MVP<br><i>Dan O'Shea Sr.</i></th>
 		<th>Hall of Fame<br>Induction</th>
-		<th>Man of the Year<br><i>Frankie Senior</i></th>
+		<th>Man of the Year<br><i>Frankie Sr.</i></th>
 		<th>Quarterback<br><i>William Hennessy</i></th>
 		<th>Runningback<br><i>Lino Paini</i></th>
 		<th>Wide Receiver<br><i>Corey Stark</i></th>
@@ -30,7 +31,7 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Defensive Line<br><i>Sharon Tanzi</i></th>
 		<th>Defensive Back<br><i>Jimmy Maca</i></th>
 		<th>Special Teams<br><i>Roberto Arancibia Sr.</i></th>
-		<th>?<br><i>Yakov Fuzailou</i></th>
+		<th>...<br><i>Yakov Fuzailou</i></th>
 	</thead>
 	<tbody>
 		<tr>
