@@ -35,9 +35,21 @@ td {vertical-align:middle;horizontal-align:center;}
 	<tbody>
 		<tr>
 			<td class="year">2021-2022</td>
-     			<td>?</td>
-			<td>?</td>
+     			<td></td>
+			<td></td>
 			<td>Ian</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td></td>
 		</tr>
 		<tr>
@@ -109,25 +121,21 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td class="year">2015-2016</td>
       			<td>Team Frank</td>
 			<td>Ian</td>
-			<td></td>
 		</tr>
     		<tr>
 			<td class="year">2014-2015</td>
      			<td>Team Frank</td>
 			<td>Frank</td>
-			<td></td>
 		</tr>
  		<tr>
 			<td class="year">2013-2014</td>
 			<td>Team Dan</td>
 			<td>Colin</td>
-			<td></td>
 		</tr>
 		<tr>
 			<td class="year">2012-2013</td>
      			<td>Team Frank</td>
 			<td>Justin</td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
