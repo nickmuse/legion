@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Player Stats
-sidebar_link: true
+sidebar_link: false
 ---
 
 <head>
