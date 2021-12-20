@@ -17,7 +17,7 @@ i {font-weight:regular;}
 	<thead class="head">
 		<th></th>
 		<th>Championship<br><i>Jim Tully</i></th>
-		<th>MVP<br><i>Dan O'Shea Sr.</i></th>
+		<th>MVP<br><i>Jim O'Shea</i></th>
 		<th>Hall of Fame<br>Induction</th>
 		<th>Man of the Year<br><i>Frankie Sr.</i></th>
 		<th>Quarterback<br><i>William Hennessy</i></th>
@@ -31,7 +31,7 @@ i {font-weight:regular;}
 		<th>Defensive Line<br><i>Sharon Tanzi</i></th>
 		<th>Defensive Back<br><i>Jimmy Maca</i></th>
 		<th>Special Teams<br><i>Roberto Arancibia Sr.</i></th>
-		<th>...<br><i>Yakov Fuzailou</i></th>
+		<th>Play of the Day<br><i>Yakov Fuzailou</i></th>
 	</thead>
 	<tbody>
 		<tr>
@@ -51,7 +51,7 @@ i {font-weight:regular;}
 			<td></td>
 			<td></td>
 			<td></td>
-			<td></td>
+			<td>Jesus<br>Delmonte</td>
 		</tr>
 		<tr>
 			<td class="year">2020-2021</td>
