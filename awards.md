@@ -10,8 +10,8 @@ sidebar_link: false
 .logo {width:40px;height:40px;vertical-align:middle;}
 td {vertical-align:middle;horizontal-align:center;}
 i {font-weight:regular;}
-th:nth-child(even) {background-color: #f9f9f9;}
-th:nth-child(odd) {background-color: #fafafa;}
+tr:nth-child(even) {background-color: #f9f9f9;}
+tr:nth-child(odd) {background-color: #fafafa;}
 </style>
 
 
