@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teams & Results
-sidebar_link: true
+sidebar_link: false
 ---
 
 <style>
@@ -10,8 +10,6 @@ sidebar_link: true
 .logo {width:40px;height:40px;vertical-align:middle;}
 td {vertical-align:middle;horizontal-align:center;}
 </style>
-
-\* - MVP
 
 <table width="80%">
 	<thead><th colspan="4" class="year">2020-2021</th></thead>
@@ -26,7 +24,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Biltmore Drivers</td>
 			<td>Colin<br>Ian</td>
-			<td>Frank<br>Labo<br>Delmonte *</td>
+			<td>Frank<br>Labo<br>Delmonte</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -62,7 +60,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Shirley Estate Mothmanian Devils</td>
 			<td>Holmes</td>
-			<td>Justin<br>Frank *<br>Ken<br>Josh</td>
+			<td>Justin<br>Frank<br>Ken<br>Josh</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -97,7 +95,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan</td>
-			<td><s>Ian</s>Wesley<br>Renzo *<br>Ray<br>Shoe<br>Maca</td>
+			<td><s>Ian</s>Wesley<br>Renzo<br>Ray<br>Shoe<br>Maca</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -138,7 +136,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>2</td>
 			<td>Team Johnny</td>
 			<td>HC Johnny</td>
-			<td>Justin *<br>Mike C<br>Ken<br>Esco<br>Swanson</td>
+			<td>Justin<br>Mike C<br>Ken<br>Esco<br>Swanson</td>
 		</tr>
 		<tr>
 			<td>3</td>
@@ -166,7 +164,7 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank *</td>
+			<td>Frank</td>
 			<td>USC Steve<br>Justin<br>Ken<br>Renzo</td>
 		</tr>
 		<tr>
@@ -202,7 +200,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td>Justin<br>Ian *<br>Colin<br>Mr. Nino<br>HC Johnny<br>Maca<br>Labo</td>
+			<td>Justin<br>Ian<br>Colin<br>Mr. Nino<br>HC Johnny<br>Maca<br>Labo</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -224,7 +222,7 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank *</td>
+			<td>Frank</td>
 			<td>Ian<br>Justin<br>Labo<br>GMan<br>Holmes</td>
 		</tr>
 		<tr>
@@ -248,7 +246,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Team Dan</td>
 			<td>Dan</td>
-			<td>Esco<br>Justin<br>Renzo<br>Labo<br>Mr. Nino<br>Holmes<br>Colin *</td>
+			<td>Esco<br>Justin<br>Renzo<br>Labo<br>Mr. Nino<br>Holmes<br>Colin</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -272,7 +270,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td>Justin *<br>Esco<br>Marc<br>Mike C<br>Ray<br>Some Kid</td>
+			<td>Justin<br>Esco<br>Marc<br>Mike C<br>Ray<br>Some Kid</td>
 		</tr>
 		<tr>
 			<td>2</td>
