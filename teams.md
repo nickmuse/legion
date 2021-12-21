@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teams & Results
+title: Rosters and Team Placement by Year
 sidebar_link: false
 ---
 
