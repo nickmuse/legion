@@ -5,7 +5,7 @@ sidebar_link: false
 ---
 
 <style>
-.head {text-align:center;background-color:#151515;color:#FFFFFF;}
+.head {text-align:center;background-color:#151515;color:#000000;}
 .year {color:#000000;font-weight:bold;}
 .logo {width:40px;height:40px;vertical-align:middle;}
 td {vertical-align:middle;horizontal-align:center;}
