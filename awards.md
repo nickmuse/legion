@@ -18,22 +18,41 @@ tr:nth-child(odd) {background-color: #fafafa;}
 <table width="80%">
 	<thead class="head">
 		<th></th>
-		<th><i>Jim Tully</i><br><br>Championship</th>
-		<th><i>Jim O'Shea</i><br><br>MVP</th>
-		<th>Hall of Fame<br>Induction</th>
-		<th><i>Frankie Sr.</i><br><br>Man of the Year</th>
-		<th><i>William Hennessy</i><br><br>Quarterback</th>
-		<th><i>Lino Paini</i><br><br>Runningback</th>
-		<th><i>Corey Stark</i><br><br>Wide Receiver</th>
-		<th><i>Stephen Long</i><br><br>Center</th>
-		<th><i>George Kyriacou</i><br><br>Defensive</th>
-		<th><i>Nick Flores</i><br><br>Offensive</th>
-		<th><i>Patricia Vega</i><br><br>Breakout</th>
-		<th><i>Maria Suydam</i><br><br>Coach</th>
-		<th><i>Sharon Tanzi</i><br><br>Defensive Line</th>
-		<th><i>Jimmy Maca</i><br><br>Defensive Back</th>
-		<th><i>Roberto Arancibia Sr.</i><br><br>Special Teams</th>
-		<th><i>Yakov Fuzailou</i><br><br>Play of the Day</th>
+		<th><i>Jim Tully</i></th>
+		<th><i>Jim O'Shea</i></th>
+		<th>/th>
+		<th><i>Frankie Sr.</i></th>
+		<th><i>William Hennessy</i></th>
+		<th><i>Lino Paini</i><br></th>
+		<th><i>Corey Stark</i></th>
+		<th><i>Stephen Long</i></th>
+		<th><i>George Kyriacou</i></th>
+		<th><i>Nick Flores</i></th>
+		<th><i>Patricia Vega</i></th>
+		<th><i>Maria Suydam</i></th>
+		<th><i>Sharon Tanzi</i></th>
+		<th><i>Jimmy Maca</i></th>
+		<th><i>Roberto Arancibia Sr.</i></th>
+		<th><i>Yakov Fuzailou</i></th>
+	</thead>
+	<thead class="head">
+		<th></th>
+		<th>Championship</th>
+		<th>MVP</th>
+		<th>Hall of Fame</th>
+		<th><Man of the Year</th>
+		<th>Quarterback</th>
+		<th>Runningback</th>
+		<th>Wide Receiver</th>
+		<th>Center</th>
+		<th>Defensive</th>
+		<th>Offensive</th>
+		<th>Breakout</th>
+		<th>Coach</th>
+		<th>Defensive Line</th>
+		<th>Defensive Back</th>
+		<th>Special Teams</th>
+		<th>Play of the Day</th>
 	</thead>
 	<tbody>
 		<tr>
