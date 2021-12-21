@@ -20,7 +20,7 @@ tr:nth-child(odd) {background-color: #fafafa;}
 		<th>Award</th>
 		<th><i>Jim Tully</i></th>
 		<th><i>Jim O'Shea</i></th>
-		<th>/th>
+		<th></th>
 		<th><i>Frankie Sr.</i></th>
 		<th><i>William Hennessy</i></th>
 		<th><i>Lino Paini</i><br></th>
