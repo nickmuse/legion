@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: Trophies, Awards and Inductions by Year
 sidebar_link: false
 ---
 
