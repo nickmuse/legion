@@ -15,7 +15,7 @@ tr:nth-child(odd) {background-color: #fafafa;}
 </style>
 
 
-<table width="80%">
+<table width="80%" bgcolor="#FFFFFF">
 	<thead class="head">
 		<th>Award</th>
 		<th><i>Jim Tully</i></th>
@@ -40,7 +40,7 @@ tr:nth-child(odd) {background-color: #fafafa;}
 		<th>Championship</th>
 		<th>MVP</th>
 		<th>Hall of Fame</th>
-		<th><Man of the Year</th>
+		<th>Man of the Year</th>
 		<th>Quarterback</th>
 		<th>Runningback</th>
 		<th>Wide Receiver</th>
