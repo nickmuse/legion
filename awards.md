@@ -17,7 +17,7 @@ tr:nth-child(odd) {background-color: #fafafa;}
 
 <table width="80%">
 	<thead class="head">
-		<th></th>
+		<th>Award</th>
 		<th><i>Jim Tully</i></th>
 		<th><i>Jim O'Shea</i></th>
 		<th>/th>
@@ -36,7 +36,7 @@ tr:nth-child(odd) {background-color: #fafafa;}
 		<th><i>Yakov Fuzailou</i></th>
 	</thead>
 	<thead class="head">
-		<th></th>
+		<th>Achievement</th>
 		<th>Championship</th>
 		<th>MVP</th>
 		<th>Hall of Fame</th>
