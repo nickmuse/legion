@@ -57,21 +57,21 @@ tr:nth-child(odd) {background-color: #fafafa;}
 	<tbody>
 		<tr>
 			<td class="year">2021-2022</td>
-     			<td></td>
-			<td></td>
+     			<td>Poospatuck Smokes</td>
+			<td>Frank</td>
 			<td>Ian</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Justin</td>
+			<td>Frank</td>
+			<td>Delmonte</td>
+			<td>JJ</td>
+			<td>Labo</td>
+			<td>Ian</td>
+			<td>Colin</td>
+			<td>Ray</td>
+			<td>Holmes</td>
+			<td>Josh</td>
+			<td>Maca</td>
+			<td>Jesus</td>
 			<td>Jesus<br>Delmonte</td>
 		</tr>
 		<tr>
