@@ -12,6 +12,75 @@ td {vertical-align:middle;horizontal-align:center;}
 </style>
 
 <table width="80%">
+	
+	<thead><th colspan="4" class="year">2022-2023</th></thead>
+	<thead>
+		<th>Place</th>
+		<th>Team</th>
+		<th>Coach</th>
+		<th>Roster</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>?</td>
+			<td>Poospatuck Smokes</td>
+			<td>Dan O'Shea</td>
+			<td>JJ Vernillo<br>John Maca<br>Jesus Arancibia<br>Joe Labo<br>Turkey<br>John Motividlak</td>
+		</tr>
+		<tr>
+			<td>?</td>
+			<td>Biltmore Drivers</td>
+			<td>Colin Tully</td>
+			<td>James McDermott<br>Ian Tully<br>Matt King<br>Ken Silver<br>Liam<br>Matt Warner</td>
+		</tr>
+		<tr>
+			<td>?</td>
+			<td>Shirley Estate Mothmen</td>
+			<td>John Suydam</td>
+			<td>Justin O'Shea<br>Renzo<br>Nick Delmonte<br>Josh Paini<br>Tyler McCarthy<br>John Kossin</td>
+		</tr>
+		<tr>
+			<td>?</td>
+			<td>Neighborhood Roadies</td>
+			<td>Nick Muse</td>
+			<td>Frank Semisa<br>Wesley Sullivan<br>Nick Geraci<br>Kevin McCarthy<br>Ray Sullivan<br>Zack Paini</td>
+		</tr>
+	</tbody>
+
+	<thead><th colspan="4" class="year">2021-2022</th></thead>
+	<thead>
+		<th>Place</th>
+		<th>Team</th>
+		<th>Coach</th>
+		<th>Roster</th>
+	</thead>
+	<tbody>
+		<tr class="champs">
+			<td>1</td>
+			<td>Poospatuck Smokes</td>
+			<td>Dan O'Shea</td>
+			<td>Frank Semisa<br>JJ Vernillo<br>Nick Geraci<br>Jesus Arancibia<br>Kevin McCarthy</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Biltmore Drivers</td>
+			<td>Colin Tully</td>
+			<td>Ian Tully<br>James McDermott<br>Joe Labo<br>Ray Sullivan<br>John Motividlak</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Shirley Estate Mothmen</td>
+			<td>John Suydam</td>
+			<td>Renzo Labo<br>John Maca<br>Matt King<br>Josh Paini<br>Matt Warner</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Neighborhood Roadies</td>
+			<td>Nick Muse<br>Dan Escobar</td>
+			<td>Justin O'Shea<br>Nick Delmonte<br>Ken Silver<br>Johnny Vega</td>
+		</tr>
+	</tbody>
+	
 	<thead><th colspan="4" class="year">2020-2021</th></thead>
 	<thead>
 		<th>Place</th>
@@ -44,7 +113,6 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>Dan<br>Ken</td>
 			<td>Justin<br>Ray<br>HC Johnny<br>JohnNay</td>
 		</tr>
-
 	</tbody>
 	
 	
