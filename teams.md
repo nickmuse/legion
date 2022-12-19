@@ -319,7 +319,7 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr>
 			<td>2</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
+			<td>Frank Semisa</td>
 			<td>Ian Tully<br>Nick Geraci<br>Johnny Vega<br>Ken Silver<br>Nick Muse<br>Mike Ciaramella<br>Elias</td>
 		</tr>
 
