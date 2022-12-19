@@ -37,7 +37,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>?</td>
 			<td>Shirley Estate Mothmen</td>
 			<td>John Suydam</td>
-			<td>Justin O'Shea<br>Renzo<br>Nick Delmonte<br>Josh Paini<br>Tyler McCarthy<br>John Kossin</td>
+			<td>Justin O'Shea<br>Renzo Labo<br>Nick Delmonte<br>Josh Paini<br>Tyler McCarthy<br>John Kossin</td>
 		</tr>
 		<tr>
 			<td>?</td>
@@ -92,26 +92,26 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Biltmore Drivers</td>
-			<td>Colin<br>Ian</td>
+			<td>Colin Tully<br>Ian Tully</td>
 			<td>Frank<br>Labo<br>Delmonte</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Shirley Estate Mothmen</td>
-			<td>Holmes<br>Josh</td>
-			<td>Maca<br>Jesus<br>Pac</td>
+			<td>John Suydam<br>Josh Paini</td>
+			<td>John Maca<br>Jesus Arancibia<br>Pac</td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>Neighborhood Roadies</td>
-			<td>Esco<br>Shoe</td>
-			<td>JJ<br>GMan<br>Mike C<br>Matt</td>
+			<td>Nick Muse<br>Dan Escobar</td>
+			<td>JJ Vernillo<br>Nick Geraci<br>Mike Ciaramella<br>Matt Warner</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Poospatuck Smokes</td>
-			<td>Dan<br>Ken</td>
-			<td>Justin<br>Ray<br>HC Johnny<br>JohnNay</td>
+			<td>Dan O'Shea<br>Ken Silver</td>
+			<td>Justin O'Shea<br>Ray Sullivan<br>Johnny Vega<br>John Motividlak</td>
 		</tr>
 	</tbody>
 	
@@ -127,26 +127,26 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Shirley Estate Mothmanian Devils</td>
-			<td>Holmes</td>
-			<td>Justin<br>Frank<br>Ken<br>Josh</td>
+			<td>John Suydam</td>
+			<td>Justin O'Shea<br>Frank Semisa<br>Ken Silver<br>Josh Paini</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Neighborhood Roadies</td>
-			<td>Esco<br>Shoe</td>
-			<td>JJ<br>GMan<br>Maca<br>Dingo</td>
+			<td>Nick Muse<br>Dan Escobar</td>
+			<td>JJ Vernillo<br>Nick Geraci<br>John Maca<br>Kevin McCarthy</td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>Poospatuck Smokes</td>
-			<td>Dan</td>
-			<td>Labo<br>Renzo<br>Ray<br>JohnNay<br>Marc</td>
+			<td>Dan O'Shea</td>
+			<td>Joe Labo<br>Renzo Labo<br>Ray Sullivan<br>John Motividlak<br>Marc Olivero</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Smith Point Captains</td>
-			<td>HC Johnny</td>
-			<td>Colin<br>Delmonte<br>Mike C<br>Tyler</td>
+			<td>Johnny Vega</td>
+			<td>Colin Tully<br>Nick Delmonte<br>Mike Ciaramella<br>Tyler McCarthy</td>
 		</tr>
 	</tbody>
 	
@@ -162,26 +162,26 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Poospatuck Smokes</td>
-			<td>Dan</td>
-			<td><s>Ian</s>Wesley<br>Renzo<br>Ray<br>Shoe<br>Maca</td>
+			<td>Dan O'Shea</td>
+			<td><s>Ian Tully</s>Wesley Sullivan<br>Renzo Labo<br>Ray Sullivan<br>Nick Muse<br>John Maca</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Smith Point Johnnies</td>
-			<td>HC Johnny</td>
-			<td>Justin<br>Delmonte<br>Mike C<br>Josh<br>Swanson</td>
+			<td>Johnny Vega</td>
+			<td>Justin O'Shea<br>Nick Delmonte<br>Mike Ciaramella<br>Josh Paini<br>Ryan Hennessy</td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>Team Osprey Park</td>
-			<td>GMan</td>
-			<td>Colin<br>Labo<br>JohnNay<br>Mr. Nino<br>Tyler</td>
+			<td>Nick Geraci</td>
+			<td>Colin Tully<br>Joe Labo<br>John Motividlak<br>Nino<br>Tyler McCarthy</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Team Moth</td>
-			<td>Holmes</td>
-			<td>Frank<br>Wesley<br>Nezario<br>Josh<br>Swanson</td>
+			<td>John Suydam</td>
+			<td>Frank Semisa<br>Wesley Sullivan<br>Steve Nezario<br>Josh Paini<br>Ryan Hennessy</td>
 		</tr>
 	</tbody>
 	
@@ -197,26 +197,26 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td>Maca<br>Wesley<br>Labo<br>Renzo<br>GMan</td>
+			<td>Frank Semisa</td>
+			<td>John Maca<br>Wesley Sullivan<br>Joe Labo<br>Renzo Labo<br>Nick Geraci</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Johnny</td>
-			<td>HC Johnny</td>
-			<td>Justin<br>Mike C<br>Ken<br>Esco<br>Swanson</td>
+			<td>Johnny Vega</td>
+			<td>Justin O'Shea<br>Mike Ciaramella<br>Ken Silver<br>Dan Escobar<br>Ryan Hennessy</td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>Team Dan</td>
-			<td>Dan</td>
-			<td>Marc<br>Ian<br>Delmonte<br>Ray<br>JohnNay<br>Elliot</td>
+			<td>Dan O'Shea</td>
+			<td>Marc Olivero<br>Ian Tully<br>Nick Delmonte<br>Ray Sullivan<br>John Motividlak<br>Elliot Kim</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Team Holmes</td>
-			<td>Holmes</td>
-			<td>Colin<br>Nezario<br>Tyler<br>Shoe<br>Mr. Nino</td>
+			<td>John Suydam</td>
+			<td>Colin Tully<br>Steve Nezario<br>Tyler McCarthy<br>Nick Muse<br>Nino</td>
 		</tr>
 	</tbody>
 
@@ -232,26 +232,26 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td>USC Steve<br>Justin<br>Ken<br>Renzo</td>
+			<td>Frank Semisa</td>
+			<td>USC Steve<br>Justin O'Shea<br>Ken Silver<br>Renzo Labo</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Holmes</td>
 			<td>Holmes</td>
-			<td>Colin<br>JohnNay<br>Mr. Nino<br>Labo<br>Swanson</td>
+			<td>Colin Tully<br>John Motividlak<br>Nino<br>Joe Labo<br>Ryan Hennessy</td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>Team Dan</td>
-			<td>Dan</td>
-			<td>Ian<br>Delmonte<br>Tyler<br>Ray<br>Marc</td>
+			<td>Dan O'Shea</td>
+			<td>Ian Tully<br>Nick Delmonte<br>Tyler McCarthy<br>Ray Sullivan<br>Marc Olivero</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Team <s>Shoe</s> Johnny</td>
-			<td><s>Shoe</s> Johnny</td>
-			<td>Nezario<br>Maca<br>Esco<br>GMan</td>
+			<td><s>Nick Muse</s> Johnny Vega</td>
+			<td>Steve Nezario<br>John Maca<br>Dan Escobar<br>Nick Geraci</td>
 		</tr>
 	</tbody>
 
@@ -267,14 +267,14 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td>Justin<br>Ian<br>Colin<br>Mr. Nino<br>HC Johnny<br>Maca<br>Labo</td>
+			<td>Frank Semisa</td>
+			<td>Justin O'Shea<br>Ian Tully<br>Colin Tully<br>Nino<br>Johnny Vega<br>John Maca<br>Joe Labo</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Holmes</td>
-			<td>Holmes</td>
-			<td>USC Steve<br>GMan<br>JohnNay<br>Shoe<br>Ray<br>Esco</td>
+			<td>John Suydam</td>
+			<td>USC Steve<br>Nick Geraci<br>John Motividlak<br>Nick Muse<br>Ray Sullivan<br>Dan Escobar</td>
 		</tr>
 	</tbody>
 
@@ -290,14 +290,14 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td>Ian<br>Justin<br>Labo<br>GMan<br>Holmes</td>
+			<td>Frank Semisa</td>
+			<td>Ian Tully<br>Justin O'Shea<br>Joe Labo<br>Nick Geraci<br>John Suydam</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Dan</td>
-			<td>Dan</td>
-			<td>Colin<br>Renzo<br>JohnNay<br>Mr. Nino<br>Marc<br>Shoe<br>Jammer</td>
+			<td>Dan O'Shea</td>
+			<td>Colin Tully<br>Renzo Labo<br>John Motividlak<br>Nino<br>Marc Olivero<br>Nick Muse<br>John Semisa</td>
 		</tr>
 	</tbody>
 
@@ -313,14 +313,14 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Dan</td>
-			<td>Dan</td>
-			<td>Esco<br>Justin<br>Renzo<br>Labo<br>Mr. Nino<br>Holmes<br>Colin</td>
+			<td>Dan O'Shea</td>
+			<td>Dan Escobar<br>Justin O'Shea<br>Renzo Labo<br>Joe Labo<br>Nino<br>John Suydam<br>Colin Tully</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Frank</td>
 			<td>Frank</td>
-			<td>Ian<br>GMan<br>HC Johnny<br>Ken<br>Shoe<br>Mike C<br>Elias</td>
+			<td>Ian Tully<br>Nick Geraci<br>Johnny Vega<br>Ken Silver<br>Nick Muse<br>Mike Ciaramella<br>Elias</td>
 		</tr>
 
 	</tbody>
@@ -337,14 +337,14 @@ td {vertical-align:middle;horizontal-align:center;}
 		<tr class="champs">
 			<td>1</td>
 			<td>Team Frank</td>
-			<td>Frank</td>
-			<td>Justin<br>Esco<br>Marc<br>Mike C<br>Ray<br>Some Kid</td>
+			<td>Frank Semisa</td>
+			<td>Justin O'Shea<br>Dan Escobar<br>Marc Olivero<br>Mike Ciaramella<br>Ray Sullivan<br>Some Mastoid</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Team Dan</td>
-			<td>Dan</td>
-			<td>Holmes<br>Labo<br>Renzo<br>Mr. Nino<br>Ian<br>Colin</td>
+			<td>Dan O'Shea</td>
+			<td>John Suydam<br>Joe Labo<br>Renzo Labo<br>Nino<br>Ian Tully<br>Colin Tully</td>
 		</tr>
 	</tbody>
 </table>
