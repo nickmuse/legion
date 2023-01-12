@@ -3,8 +3,6 @@ layout: page
 title: Rulebook
 sidebar_link: true
 ---
-
-# Legends of Legion Rulebook
   
 ## Pre-Game
 
