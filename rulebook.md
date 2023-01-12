@@ -42,7 +42,7 @@ After the count, defensive players may pass the line of scrimmage cone.
 
 When a defensive player passes the line of scrimmage cone, the QB may scramble.
 
-Defenders may cross the line prior to the end of count if the ball leaves the QB's hands (Hand-off, Pass, Fumble etc.)
+Defenders may cross the line prior to the end of count if the ball leaves the QB's hands (Hand-off, Pass, Fumble etc.).
 
 If a defensive player rushes before the count, it will result in an offsides penalty. They must then retreat behind the line of scrimmage cone (regaining a legal guarding position) and wait for the count. QB gets a “Free play” and may scramble as soon as defender passes cone at any point. 5 yard penalty applied.
 
@@ -56,9 +56,9 @@ If an out of bounds player makes any contact with the ball, the ball is consider
 
 ## Turnovers
 
-Interceptions may be returned
+Interceptions may be returned.
 
-Fumbles may not be returned. Ball is down at spot of clear recovery
+Fumbles may not be returned. Ball is down at spot of clear recovery.
  
 ## Tagging
 
@@ -66,7 +66,7 @@ If a potential tagger is on the ground or out of bounds, they are not in legal t
 
 Illegal taggers must get up and establish legal position before making a tag.
 
-A tag in end zone will result in a loss of downs and the ball will be placed at the 1 inch line. (No Safety)
+A tag in end zone will result in a loss of downs and the ball will be placed at the 1 inch line (No Safety).
 
 ## Other Contact
 
@@ -96,7 +96,7 @@ During an opt to Kick:
 
 Halftime begins when either team reaches 3 points.
 
-Games are played until one team reaches 5 points, unless overtime is active  
+Games are played until one team reaches 5 points, unless overtime is active  .
 
 A 4-4 score at any point will result in immediate overtime.  
 
