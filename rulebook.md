@@ -8,21 +8,21 @@ sidebar_link: true
 
 The right to call heads or tails during the coin toss will be decided by previous year‘s record. As "home" team and "away" team will be named. Away team picks heads or tails.
 
-## Line of Scrimmage
-
-Any amount of player may be called into motion before the snap.
-
-Only one player may still be in motion at the snap.
-
-## Pre-Snap
+## Substitutions
 
 Substitutions may be made by offense at any time.
 
 Defending team may ask for a defensive stop for an equal opportunity to make a substitution.
 
+## Pre-Snap
+
 Pre-snap huddle should not total more than 25 seconds. This may result in a 2 yard penalty at the Referees' discretion.
 
 Too many players in the huddle (6 or more players) will result in a 2 yard penalty.
+
+Any amount of player may be called into motion before the snap.
+
+Only one player may still be in motion at the snap.
 
 False Start will result in a 2 yard penalty.
 
