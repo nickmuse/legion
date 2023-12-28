@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donations
-sidebar_link: true
+sidebar_link: false
 ---
 
 ### How can you help?
