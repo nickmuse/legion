@@ -20,7 +20,7 @@ Pre-snap huddle should not total more than 25 seconds. This may result in a 2 ya
 
 Too many players in the huddle (6 or more players) will result in a 2 yard penalty.
 
-Any amount of player may be called into motion before the snap.
+Any amount of players may be called into motion before the snap.
 
 Only one player may still be in motion at the snap.
 
