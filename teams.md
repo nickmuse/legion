@@ -12,7 +12,7 @@ td {vertical-align:middle;horizontal-align:center;}
 </style>
 
 <table width="80%">
-	
+
 	<thead><th colspan="4" class="year">2022-2023</th></thead>
 	<thead>
 		<th>Place</th>
@@ -25,22 +25,56 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>?</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan O'Shea</td>
-			<td>JJ Vernillo<br>John Maca<br>Jesus Arancibia<br>Joe Labo<br>Turkey<br>John Motividlak</td>
+			<td>Nick Delmonte<br>John Maca<br>James McDermott<br>Josh Paini<br>Ray Sullivan<br>Johnny Vega</td>
 		</tr>
 		<tr>
 			<td>?</td>
 			<td>Biltmore Drivers</td>
 			<td>Colin Tully</td>
-			<td>James McDermott<br>Ian Tully<br>Matt King<br>Ken Silver<br>Liam<br>Matt Warner</td>
+			<td>Frank Semisa<br>JJ Vernillo<br>Ian Tully<br>Matt King<br>John Kossin<br>Ken Silver</td>
 		</tr>
 		<tr>
 			<td>?</td>
 			<td>Shirley Estate Mothmen</td>
 			<td>John Suydam</td>
-			<td>Justin O'Shea<br>Renzo Labo<br>Nick Delmonte<br>Josh Paini<br>Tyler McCarthy<br>John Kossin</td>
+			<td>Justin O'Shea<br>Wesley Sullivan<br>Renzo Labo<br>Zack Paini<br>Tyler McCarthy<br>John Motovidlak</td>
 		</tr>
 		<tr>
 			<td>?</td>
+			<td>Neighborhood Roadies</td>
+			<td>Nick Muse</td>
+			<td>Evan<br>Nick Geraci<br>Kevin McCarthy<br>Jesus Arancibia<br>Joe Labo<br>Matt Warner</td>
+		</tr>
+	</tbody>
+	
+	<thead><th colspan="4" class="year">2022-2023</th></thead>
+	<thead>
+		<th>Place</th>
+		<th>Team</th>
+		<th>Coach</th>
+		<th>Roster</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2</td>
+			<td>Poospatuck Smokes</td>
+			<td>Dan O'Shea</td>
+			<td>JJ Vernillo<br>John Maca<br>Jesus Arancibia<br>Joe Labo<br>Turkey<br>John Motividlak</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Biltmore Drivers</td>
+			<td>Colin Tully</td>
+			<td>James McDermott<br>Ian Tully<br>Matt King<br>Ken Silver<br>Liam<br>Matt Warner</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Shirley Estate Mothmen</td>
+			<td>John Suydam</td>
+			<td>Justin O'Shea<br>Renzo Labo<br>Nick Delmonte<br>Josh Paini<br>Tyler McCarthy<br>John Kossin</td>
+		</tr>
+		<tr>
+			<td>3</td>
 			<td>Neighborhood Roadies</td>
 			<td>Nick Muse</td>
 			<td>Frank Semisa<br>Wesley Sullivan<br>Nick Geraci<br>Kevin McCarthy<br>Ray Sullivan<br>Zack Paini</td>
