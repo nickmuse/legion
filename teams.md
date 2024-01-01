@@ -13,7 +13,7 @@ td {vertical-align:middle;horizontal-align:center;}
 
 <table width="80%">
 
-	<thead><th colspan="4" class="year">2022-2023</th></thead>
+	<thead><th colspan="4" class="year">2023-2024</th></thead>
 	<thead>
 		<th>Place</th>
 		<th>Team</th>
