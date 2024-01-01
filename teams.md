@@ -5,8 +5,8 @@ sidebar_link: false
 ---
 
 <style>
-.year {text-align:center;background-color:#013369;color:#FFFFFF;}
-.champs {color:#D50A0A;font-weight:bold;}
+.year {text-align:center;background-color:#D50A0A;color:#FFFFFF;}
+.champs {color:#013369;font-weight:bold;}
 .logo {width:40px;height:40px;vertical-align:middle;}
 td {vertical-align:middle;horizontal-align:center;}
 </style>
