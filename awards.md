@@ -1,163 +1,67 @@
 ---
 layout: page
-title: Trophies, Awards and Inductions by Year
+title: Trophies, Awards and Inductions
 sidebar_link: false
 ---
 
-<style>
-.head {text-align:center;background-color:#151515;color:#000000;}
-.year {color:#000000;font-weight:bold;}
-.logo {width:40px;height:40px;vertical-align:middle;}
-td {vertical-align:middle;horizontal-align:center;}
-i {font-weight:regular;}
-tr:nth-child(even) {background-color: #f9f9f9;}
-tr:nth-child(odd) {background-color: #fafafa;}
-</style>
+<head>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="jquery.dynatable.css">
+  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.responsive.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <!-- <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.responsive.min.js"></script> -->
+  <script src="jquery.dynatable.js"></script>
 
+  <script>$(document).ready(function() {
+  
+    function custom_writer(rowIndex, record, columns, cellWriter) {
+	row = '<tr>';
+	row += '<td>' + record.year + '</td>';
+	row += '<td>' + record.award + '</td>';
+	row += '<td><a href="/awards.html?queries[search]=' + record.recipient + '&sorts[year]=-1">' + record.recipient + '</a></td>';
+    row += '</tr>';
+	return row;
+	}
+  
+      $('#awards').dynatable({
+        features:{
+          paginate: false,
+          search: true,
+          recordCount: false,
+          perPageSelect: false
+        },
+	writers: {
+		_rowWriter: custom_writer
+	},
+        inputs: {
+          queries: $('#search-year')
+        },
+        dataset: {
+          records: {{site.data.awards | jsonify}}
+        }
+      });
+      
+  });</script>
+  
+</head>
 
-<table width="80%" bgcolor="#FFFFFF">
-	<thead class="head">
-		<th>Award</th>
-		<th><i>Jim Tully</i></th>
-		<th><i>Jim O'Shea</i></th>
-		<th></th>
-		<th><i>Frankie Sr.</i></th>
-		<th><i>William Hennessy</i></th>
-		<th><i>Lino Paini</i><br></th>
-		<th><i>Corey Stark</i></th>
-		<th><i>Stephen Long</i></th>
-		<th><i>George Kyriacou</i></th>
-		<th><i>Nick Flores</i></th>
-		<th><i>Patricia Vega</i></th>
-		<th><i>Maria Suydam</i></th>
-		<th><i>Sharon Tanzi</i></th>
-		<th><i>Jimmy Maca</i></th>
-		<th><i>Roberto Arancibia Sr.</i></th>
-		<th><i>Yakov Fuzailou</i></th>
-	</thead>
-	<thead class="head">
-		<th>Achievement</th>
-		<th>Championship</th>
-		<th>MVP</th>
-		<th>Hall of Fame</th>
-		<th>Man of the Year</th>
-		<th>Quarterback</th>
-		<th>Runningback</th>
-		<th>Wide Receiver</th>
-		<th>Center</th>
-		<th>Defensive</th>
-		<th>Offensive</th>
-		<th>Breakout</th>
-		<th>Coach</th>
-		<th>Defensive Line</th>
-		<th>Defensive Back</th>
-		<th>Special Teams</th>
-		<th>Play of the Day</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td class="year">2021-2022</td>
-     			<td>Poospatuck Smokes</td>
-			<td>Frank</td>
-			<td>Ian</td>
-			<td>Justin</td>
-			<td>Frank</td>
-			<td>Delmonte</td>
-			<td>JJ</td>
-			<td>Labo</td>
-			<td>Ian</td>
-			<td>Colin</td>
-			<td>Ray</td>
-			<td>Holmes</td>
-			<td>Josh</td>
-			<td>Maca</td>
-			<td>Jesus</td>
-			<td>Jesus<br>Delmonte</td>
-		</tr>
-		<tr>
-			<td class="year">2020-2021</td>
-     			<td>Biltmore Drivers</td>
-			<td>Delmonte</td>
-			<td>Labo</td>
-			<td>Shoe</td>
-			<td>Geraci</td>
-			<td>Colin</td>
-			<td>Justin</td>
-			<td>Ken</td>
-			<td>Holmes</td>
-			<td>JJ</td>
-			<td>Josh</td>
-			<td>Shoe<br>Esco</td>
-		</tr>
-		<tr>
-			<td class="year">2019-2020</td>
-    			<td>Shirley Estate Mothmen</td>
-			<td>Frank</td>
-			<td>Colin</td>
-			<td>Holmes</td>
-			<td>Renzo</td>
-			<td>Nino</td>
-			<td>Delmonte</td>
-			<td>Ray</td>
-			<td>Justin</td>
-			<td>Maca</td>
-			<td>Shoe</td>
-			<td>Dan</td>
-		</tr>
-		<tr>
-			<td class="year">2018-2019</td>
-      			<td>Poospatuck Smokes</td>
-			<td>Renzo</td>
-			<td>Justin</td>
-			<td>Ray</td>
-			<td>Frank</td>
-			<td>Frank</td>
-			<td>Colin</td>
-			<td>Labo</td>
-			<td>Wes</td>
-			<td>Ian</td>
-			<td>Maca</td>
-			<td>Frank</td>
-		</tr>
-   		<tr>
-			<td class="year">2017-2018</td>
-     			<td>Team Frank</td>
-			<td>Justin</td>
-			<td>Frank</td>
-			<td>Esco</td>
-			<td>Frank</td>
-			<td>Nino</td>
-			<td>Colin</td>
-			<td>Ken</td>
-			<td>Justin</td>
-			<td>Delmonte</td>
-			<td>Tyler</td>
-			<td>Holmes</td>
-		</tr>
-   		<tr>
-			<td class="year">2016-2017</td>
- 			<td>Team Frank</td>
-			<td>Frank</td>
-		</tr>
-   		<tr>
-			<td class="year">2015-2016</td>
-      			<td>Team Frank</td>
-			<td>Ian</td>
-		</tr>
-    		<tr>
-			<td class="year">2014-2015</td>
-     			<td>Team Frank</td>
-			<td>Frank</td>
-		</tr>
- 		<tr>
-			<td class="year">2013-2014</td>
-			<td>Team Dan</td>
-			<td>Colin</td>
-		</tr>
-		<tr>
-			<td class="year">2012-2013</td>
-     			<td>Team Frank</td>
-			<td>Justin</td>
-		</tr>
-	</tbody>
+<div align="right">
+Year: 
+<select id="search-year" name="year">
+  <option></option>
+  <option>2021-2022</option><option>2020-2021</option>
+  <option>2019-2020</option><option>2018-2019</option><option>2017-2018</option><option>2016-2017</option>
+  <option>2015-2016</option><option>2014-2015</option><option>2013-2014</option><option>2012-2013</option>
+</select>
+</div>
+
+<table id="awards" class="display responsive nowrap" style="width:80%">
+    <thead>
+      <th>Year</th>
+      <th>Award</th>
+      <th>Recipient</th>
+    </thead>
+    <tbody>
+    </tbody>
 </table>
