@@ -54,10 +54,6 @@ sidebar_link: false
 </head>
 
 <div align="right">
-Per Game Average <input type="checkbox" id="avg" name="avg" value="Average Per Game">
-</div>
-
-<div align="right">
 Year: 
 <select id="search-year" name="year">
   <option></option>
