@@ -5,8 +5,6 @@ author: "Anna Gibbs"
 categories:
   - Photos
 tags:
-  - Photos
-  - Draft
 ---
 
 [![Draft Party](draftnight2324banner.png)*Click to view Album*](https://annagibbsphotovideo.pixieset.com/loldraftparty/)
