@@ -9,4 +9,4 @@ tags:
   - Draft
 ---
 
-[![Draft Party](frankdraft.jpg)]([http://example.com](https://annagibbsphotovideo.pixieset.com/loldraftparty/)https://annagibbsphotovideo.pixieset.com/loldraftparty/)
+[![Draft Party](draftnight2324banner.png)](https://annagibbsphotovideo.pixieset.com/loldraftparty/)https://annagibbsphotovideo.pixieset.com/loldraftparty/)
