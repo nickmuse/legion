@@ -14,4 +14,4 @@ tags:
 <p>Weddings, Family, Business, Professional Portraits, etc</p>
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
 <p><a href="https://annagibbs.com/"><i class="fa-solid fa-globe"></i>annagibbs.com</a></p>
-<p><a href="https://www.instagram.com/annagibbs.lens"><i class="fa-brands fa-instagram"></i>@annagibbs.lens</a></p>
+<p><a href="https://www.instagram.com/annagibbs.lens"><i class="fa-brands fa-instagram"></i>annagibbs.lens</a></p>
