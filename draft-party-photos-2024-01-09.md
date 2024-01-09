@@ -11,6 +11,7 @@ tags:
 <p style="text-align: right; font-size: 80%; color:gray;">^ click to view album</p>
 
 ### Photos by Anna Gibbs
+<p style="color:gray; font-size: 80%;">Please consider her for your photography and videography needs. Weddings, Family, Business, Professional Portraits, etc.</p>
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
-<p><i class="fa-solid fa-globe"></i>&nbsp;<a href="https://annagibbs.com/">annagibbs.com</a><br><i class="fa-brands fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/annagibbs.lens">annagibbs.lens</a></p>
-<p style="color:gray;"><i>Please consider her for your photography and videography needs. Weddings, Family, Business, Professional Portraits, etc.</i></p>
+<p style="color:gray; font-size: 80%;"><i class="fa-solid fa-globe"></i>&nbsp;<a href="https://annagibbs.com/">annagibbs.com</a><br><i class="fa-brands fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/annagibbs.lens">annagibbs.lens</a></p>
+
