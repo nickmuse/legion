@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-[![Draft Party](draftnight2324banner.png)*Click to view Album*](https://annagibbsphotovideo.pixieset.com/loldraftparty/)
+[![Draft Party](draftnight2324banner.png)](https://annagibbsphotovideo.pixieset.com/loldraftparty/)*click to view album*
 
 ### Photos by Anna Gibbs
 <p>Please consider her for your photography and videography needs</p>
