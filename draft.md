@@ -13,6 +13,5 @@ tags:
 Please consider her for your photography and videography needs (Weddings, Family, Business, Professional Portraits, etc)
 
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
-
-<a href="https://annagibbs.com/"><i class="fa-solid fa-globe fa-2xl" style="font-size:48px;"></i>annagibbs.com</a>
-<a href="https://www.instagram.com/annagibbs.lens"><i class="fa-brands fa-instagram	fa-2xl" style="font-size:48px;"></i>@annagibbs.lens</a>
+<a href="https://annagibbs.com/"><i class="fa-solid fa-globe fa-2xl"></i>annagibbs.com</a>
+<a href="https://www.instagram.com/annagibbs.lens"><i class="fa-brands fa-instagram	fa-2xl"></i>@annagibbs.lens</a>
