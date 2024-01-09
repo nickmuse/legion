@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-[Draft Party](https://legendsoflegion.com/draftnight2324banner.png)
+![Draft Party](https://legendsoflegion.com/draftnight2324banner.png)
 <p style="text-align: right; font-size: 80%; color:gray;"><a href="https://annagibbsphotovideo.pixieset.com/loldraftparty/">^ click here to view album</a>a></p>
 
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
