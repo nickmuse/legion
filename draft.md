@@ -10,8 +10,8 @@ tags:
 [![Draft Party](draftnight2324banner.png)*Click to view Album*](https://annagibbsphotovideo.pixieset.com/loldraftparty/)
 
 ### Photos by Anna Gibbs
-Please consider her for your photography and videography needs (Weddings, Family, Business, Professional Portraits, etc)
-
+<p>Please consider her for your photography and videography needs</p>
+<p>Weddings, Family, Business, Professional Portraits, etc</p>
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
-<a href="https://annagibbs.com/"><i class="fa-solid fa-globe fa-2xl"></i>annagibbs.com</a>
-<a href="https://www.instagram.com/annagibbs.lens"><i class="fa-brands fa-instagram	fa-2xl"></i>@annagibbs.lens</a>
+<p><a href="https://annagibbs.com/"><i class="fa-solid fa-globe"></i>annagibbs.com</a></p>
+<p><a href="https://www.instagram.com/annagibbs.lens"><i class="fa-brands fa-instagram"></i>@annagibbs.lens</a></p>
