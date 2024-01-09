@@ -12,6 +12,7 @@ tags:
 #### Photos by Anna Gibbs
 Please consider her for your photography and videography needs (Weddings, Family, Business, Professional Portraits, etc)
 
-[annagibbs.com](https://annagibbs.com)
+<script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
 
-[@annagibbs.lens](https://www.instagram.com/annagibbs.lens)
+<i class="fa-solid fa-globe	 	fa-2xl" style="font-size:48px;"></i>[annagibbs.com](https://annagibbs.com)
+<i class="fa-brands fa-instagram	fa-2xl" style="font-size:48px;"></i>[@annagibbs.lens](https://www.instagram.com/annagibbs.lens)
