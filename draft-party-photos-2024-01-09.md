@@ -8,8 +8,7 @@ tags:
 ---
 
 [![Draft Party](draftnight2324banner.png)](https://annagibbsphotovideo.pixieset.com/loldraftparty/)
->*click to view album*
->{: style="color:gray; font-size: 80%; text-align: right;"}
+<p style="text-align: right; font-size: 80%; color:gray;">^ click to view album</p>
 
 ### Photos by Anna Gibbs
 <p>Please consider her for your photography and videography needs.<br><i>Weddings, Family, Business, Professional Portraits, etc.</i></p>
