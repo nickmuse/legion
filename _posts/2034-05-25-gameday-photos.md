@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Game Day Photos"
+title: "Gameday Photos"
 author: "Anna Gibbs"
 categories:
   - Photos
 tags:
 ---
 
-![Draft Party](https://legendsoflegion.com/gameday24photos.png)
+![Draft Party](https://legendsoflegion.com/MG_0553.jpg).
 
 
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
