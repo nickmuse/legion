@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-![Draft Party](https://legendsoflegion.com/IMG_0553.jpg).
+![Draft Party](https://legendsoflegion.com/IMG_0553.jpg)
 
 
 <script src="https://kit.fontawesome.com/45ec0bc322.js" crossorigin="anonymous"></script>
