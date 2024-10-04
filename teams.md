@@ -13,6 +13,40 @@ td {vertical-align:middle;horizontal-align:center;}
 
 <table width="80%">
 
+	<thead><th colspan="4" class="year">2024-2025</th></thead>
+	<thead>
+		<th>Place</th>
+		<th>Team</th>
+		<th>Coach</th>
+		<th>Roster</th>
+	</thead>
+	<tbody>
+		<tr class="champs">
+			<td>?</td>
+			<td>Biltmore Drivers</td>
+			<td>Colin Tully</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>?</td>
+			<td>Neighborhood Roadies</td>
+			<td>Nick Muse</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>?</td>
+			<td>Poospatuck Smokes</td>
+			<td>Dan O'Shea</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>?</td>
+			<td>Shirley Estate Mothmen</td>
+			<td>John Suydam</td>
+			<td></td>
+		</tr>
+	</tbody>
+
 	<thead><th colspan="4" class="year">2023-2024</th></thead>
 	<thead>
 		<th>Place</th>
@@ -21,29 +55,29 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr>
-			<td>?</td>
-			<td>Poospatuck Smokes</td>
-			<td>Dan O'Shea</td>
-			<td>Nick Delmonte<br>John Maca<br>James McDermott<br>Josh Paini<br>Ray Sullivan<br>Johnny Vega</td>
-		</tr>
-		<tr>
-			<td>?</td>
+		<tr class="champs">
+			<td>1</td>
 			<td>Biltmore Drivers</td>
 			<td>Colin Tully</td>
 			<td>Frank Semisa<br>JJ Vernillo<br>Ian Tully<br>Matt King<br>John Kossin<br>Ken Silver</td>
 		</tr>
 		<tr>
-			<td>?</td>
-			<td>Shirley Estate Mothmen</td>
-			<td>John Suydam</td>
-			<td>Justin O'Shea<br>Wesley Sullivan<br>Renzo Labo<br>Zack Paini<br>Tyler McCarthy<br>John Motovidlak</td>
-		</tr>
-		<tr>
-			<td>?</td>
+			<td>2</td>
 			<td>Neighborhood Roadies</td>
 			<td>Nick Muse</td>
 			<td>Evan<br>Nick Geraci<br>Kevin McCarthy<br>Jesus Arancibia<br>Joe Labo<br>Matt Warner</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Poospatuck Smokes</td>
+			<td>Dan O'Shea</td>
+			<td>Nick Delmonte<br>John Maca<br>James McDermott<br>Josh Paini<br>Ray Sullivan<br>Johnny Vega</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Shirley Estate Mothmen</td>
+			<td>John Suydam</td>
+			<td>Justin O'Shea<br>Wesley Sullivan<br>Renzo Labo<br><s>Zack Paini</s><br><s>Tyler McCarthy</s><br>John Motovidlak<br>+Dan Escobar</td>
 		</tr>
 	</tbody>
 	
@@ -71,13 +105,13 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>3</td>
 			<td>Neighborhood Roadies</td>
 			<td>Nick Muse</td>
-			<td>Frank Semisa<br>Wesley Sullivan<br>Nick Geraci<br>Kevin McCarthy<br>Ray Sullivan<br>Zack Paini</td>
+			<td>Frank Semisa<br>Wesley Sullivan<br>Nick Geraci<br>Kevin McCarthy<br>Ray Sullivan<br><s>Zack Paini</s></td>
 		</tr>
   		<tr>
 			<td>4</td>
 			<td>Biltmore Drivers</td>
 			<td>Colin Tully</td>
-			<td>James McDermott<br>Ian Tully<br>Matt King<br>Ken Silver<br>Liam<br>Matt Warner</td>
+			<td>James McDermott<br><s>Ian Tully</s><br>Matt King<br>Ken Silver<br>Liam<br>Matt Warner<br>+Kyle Fichner</td>
 		</tr>
 	</tbody>
 
@@ -197,7 +231,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>1</td>
 			<td>Poospatuck Smokes</td>
 			<td>Dan O'Shea</td>
-			<td><s>Ian Tully</s>Wesley Sullivan<br>Renzo Labo<br>Ray Sullivan<br>Nick Muse<br>John Maca</td>
+			<td><s>Ian Tully</s><br>Renzo Labo<br>Ray Sullivan<br>Nick Muse<br>John Maca<br>+Wesley Sullivan</td>
 		</tr>
 		<tr>
 			<td>2</td>
