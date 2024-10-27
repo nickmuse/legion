@@ -39,7 +39,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>Nick Muse</td>
 			<td></td>
 		</tr>
-		<tr class="champs">
+		<tr>
 			<td>?</td>
 			<td>?</td>
 			<td>?</td>
