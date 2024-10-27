@@ -21,16 +21,10 @@ td {vertical-align:middle;horizontal-align:center;}
 		<th>Roster</th>
 	</thead>
 	<tbody>
-		<tr class="champs">
-			<td>?</td>
-			<td>Biltmore Drivers</td>
-			<td>Colin Tully</td>
-			<td></td>
-		</tr>
 		<tr>
 			<td>?</td>
-			<td>Neighborhood Roadies</td>
-			<td>Nick Muse</td>
+			<td>Shirley Estate Mothmen</td>
+			<td>John Suydam</td>
 			<td></td>
 		</tr>
 		<tr>
@@ -41,8 +35,14 @@ td {vertical-align:middle;horizontal-align:center;}
 		</tr>
 		<tr>
 			<td>?</td>
-			<td>Shirley Estate Mothmen</td>
-			<td>John Suydam</td>
+			<td>Neighborhood Roadies</td>
+			<td>Nick Muse</td>
+			<td></td>
+		</tr>
+		<tr class="champs">
+			<td>?</td>
+			<td>?</td>
+			<td>?</td>
 			<td></td>
 		</tr>
 	</tbody>
