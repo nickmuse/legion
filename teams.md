@@ -202,7 +202,7 @@ td {vertical-align:middle;horizontal-align:center;}
 			<td>2</td>
 			<td>Neighborhood Roadies</td>
 			<td>Nick Muse<br>Dan Escobar</td>
-			<td>JJ Vernillo<br>Nick Geraci<br>John Maca<br>Kevin McCarthy</td>
+			<td><s>Ian Tully</s><br>Nick Geraci<br>John Maca<br>Kevin McCarthy<br>+JJ Vernillo</td>
 		</tr>
 		<tr>
 			<td>3</td>
