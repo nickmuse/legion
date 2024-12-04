@@ -32,7 +32,7 @@ Snap must be between the legs.
 
 The offensive player who receives the snap is considered the QB and can not scramble until rushed.
 
-## Rushing & Scrambling
+## Rushing, Scrambling, QB Rules
 
 Count will be done by Referee.
 
@@ -46,6 +46,8 @@ Defenders may cross the line prior to the end of count if the ball leaves the QB
 
 If a defensive player rushes before the count, it will result in an offsides penalty. They must then retreat behind the line of scrimmage cone (regaining a legal guarding position) and wait for the count. QB gets a “Free play” and may scramble as soon as defender passes cone at any point. 5 yard penalty applied.
 
+Intentional grounding does not exist. A QB is free to throw away the ball at any time.
+
 ## Boundaries
 
 Outer most edge of cone is considered out of bounds.
@@ -58,7 +60,7 @@ If an out of bounds player makes any contact with the ball, the ball is consider
 
 Interceptions may be returned.
 
-Fumbles may not be returned. Ball is down at spot of clear recovery.
+Fumbles may not be returned. Ball is down at spot of clear recovery and posession is granted to the recovering team.
  
 ## Tagging
 
@@ -67,6 +69,8 @@ If a potential tagger is on the ground or out of bounds, they are not in legal t
 Illegal taggers must get up and establish legal position before making a tag.
 
 A tag in end zone will result in a loss of downs and the ball will be placed at the 1 inch line (No Safety).
+
+"Body to body" contact may count as a tag at the referees' discretion. This occurs when a defender and a carrier land hip to hip or arm to arm.
 
 ## Other Contact
 
