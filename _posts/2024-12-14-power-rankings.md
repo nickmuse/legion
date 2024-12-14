@@ -10,7 +10,7 @@ tags:
   - Articles
 ---
 
-![](/zynman.png)
+<img src="/zynman.png" width="50%" height="50%">
 
 ## Power Rankings
 
