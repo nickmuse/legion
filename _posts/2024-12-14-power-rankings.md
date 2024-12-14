@@ -10,6 +10,8 @@ tags:
   - Articles
 ---
 
+![](/zynman.png)
+
 ## Power Rankings
 
 ### 4. Last of the Masticans 
