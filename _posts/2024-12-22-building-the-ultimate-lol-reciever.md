@@ -10,8 +10,6 @@ tags:
 
 <img src="/delmonte_catch.png">
 
-## Building the Ultimate LOL Reciever
-
 I’ve created the perfect L.O.L. pass catcher using these 10 metrics.
 
 Take a look at who’s the best at what they do.
