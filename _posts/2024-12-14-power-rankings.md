@@ -12,8 +12,6 @@ tags:
 
 <img src="/rankings24.png">
 
-## Power Rankings
-
 ### 4. Last of the Masticans 
 In year one as a coach John Kossin drafted an incredibly talented unit. Especially considering he had the last pick of the draft. Justin Oshea and Colin Tully are members of the Roberto Arancibia Hall of Fame. Mateo Barahona is an exciting athletic rookie. Jesus Arancibia is one of the most consistent playmakers in L.O.L. Football. But we know the big question with this roster….Who is the starting QB? We’ve seen this dilema with other franchises in the past. It rarely works out. The good news is that they have options, Colin Tully won an MVP at the position. Joe Labo and Justin Oshea also have reps under their belts. But not knowing is not a good thing in this league. They have to figure it out and figure it out fast. Colin, Jesus, and Justin all made some great plays on Saturday. Colin flashed the speed, Justin flashed the size, And Jesus flashed the versatility. We know these guys can play. Now it’s up to Rookie coach John Kossin to put each of them in a position to win.
 
