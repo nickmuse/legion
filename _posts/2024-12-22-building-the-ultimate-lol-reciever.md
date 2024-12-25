@@ -3,10 +3,8 @@ layout: post
 title: "Frank's Power Rankings"
 author: "Frank Semisa"
 categories:
-  - Power Rankings
   - Articles
 tags:
-  - Power Rankings
   - Articles
 ---
 
