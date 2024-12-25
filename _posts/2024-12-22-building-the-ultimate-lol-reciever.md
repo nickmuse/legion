@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frank's Power Rankings"
+title: "FBuilding the Ultimate LOL Reciever"
 author: "Frank Semisa"
 categories:
   - Articles
