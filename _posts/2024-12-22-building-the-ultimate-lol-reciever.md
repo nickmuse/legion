@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FBuilding the Ultimate LOL Reciever"
+title: "Building the Ultimate LOL Reciever"
 author: "Frank Semisa"
 categories:
   - Articles
